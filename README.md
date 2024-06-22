@@ -5,7 +5,7 @@
 </div>
 
 ### Hi there 👋. I'm Olawumi(Ola)👩‍🦱 - She/Her/Hers
-----------------------------------
+-------------------------------------------------
 - 👩‍💻 I’m currently working on knowledge graph edge inference
 - 📖 I’m currently a graduate student at UNC-Chapel Hill
 - 👨‍👩‍👧‍👦 I’m looking to collaborate on KG research projects. Find my resume [here](https://drive.google.com/file/d/1-0GNdX-iFXPZwph8vUvC1gNq0aBER4nZ/view)
@@ -19,17 +19,17 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 
-![Research, Publications and Presentations]()
-----------------------------------
+![Academic Backgrouds]()
+------------------------
   
 ![Research, Publications and Presentations]()
-----------------------------------
+---------------------------------------------
 
 ![Awards, and Prizes]()
-----------------------------------
+-----------------------
 
 ![Professional Associations]()
-----------------------------------
+------------------------------
 
 Github Stats:
 ----------------------------------
