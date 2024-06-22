@@ -8,9 +8,9 @@
 -------------------------------------------------
 - 👩‍💻 I’m currently working on knowledge graph edge inference
 - 📖 I’m currently a graduate student at UNC-Chapel Hill
-- 👨‍👩‍👧‍👦 I’m looking to collaborate on KG research projects. Find my resume [here](https://drive.google.com/file/d/1-0GNdX-iFXPZwph8vUvC1gNq0aBER4nZ/view)
+- 👨‍👩‍👧‍👦 I’m looking to collaborate on KG research projects. Please find my resume [here](https://drive.google.com/file/d/1-0GNdX-iFXPZwph8vUvC1gNq0aBER4nZ/view)
 - 💬 Ask me about Nigeria jollof😋
-- ⚡ Not So Fun fact: I love to do everything, but sometimes, ends up doing nothing😭
+- ⚡ Not So Fun fact: I love to do everything, but sometimes, I end up doing nothing😭
 - 📫 How to reach me: wumirose@gmail.com
   <a href="https://www.linkedin.com/in/wumirosey/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -22,7 +22,7 @@
 ![Academic Backgrouds]()
 ------------------------
   
-![Research, Publications and Presentations]()
+![Research, Publications and Presentations](https://github.com/wumirose/wumirose.github.io/research)
 ---------------------------------------------
 
 ![Awards, and Prizes]()
