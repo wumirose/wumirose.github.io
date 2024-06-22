@@ -12,14 +12,12 @@
 - 💬 Ask me about Nigeria jollof😋
 - ⚡ Not So Fun fact: I love to do everything, but sometimes, ends up doing nothing😭
 - 📫 How to reach me: wumirose@gmail.com
-  <div id="badges">
   <a href="https://www.linkedin.com/in/wumirosey/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/wumirosey">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-</div>
 
 ![Research, Publications and Presentations]()
 ----------------------------------
