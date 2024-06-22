@@ -1,7 +1,7 @@
 # wumirose.github.io
 
 
-Under Construction
+
 
 ### Hi there 👋. I'm Olawumi(Ola)👩‍🦱
 
