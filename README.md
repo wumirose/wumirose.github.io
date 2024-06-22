@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/chKLljLdaReQaJgSW8/giphy.gif"/>
 </div>
 
-## [Home](https://github.com/wumirose/wumirose.github.io/edit/main/README.md) |
+## [Home](https://github.com/wumirose/wumirose.github.io/edit/main/README.md) | [Academic Backgrouds]() | [Research, Publications and Presentations](https://github.com/wumirose/wumirose.github.io/research) | [Awards, and Prizes]() | [Professional Associations]() | 
 
 ### Hi there 👋. I'm Olawumi(Ola)👩‍🦱 - She/Her/Hers
 -------------------------------------------------
@@ -21,17 +21,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 
-![Academic Backgrouds]()
-------------------------
-  
-![Research, Publications and Presentations](https://github.com/wumirose/wumirose.github.io/research)
----------------------------------------------
-
-![Awards, and Prizes]()
------------------------
-
-![Professional Associations]()
-------------------------------
 
 Github Stats:
 ----------------------------------
