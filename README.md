@@ -1,6 +1,3 @@
-# wumirose.github.io
-
-
 
 
 ### Hi there 👋. I'm Olawumi(Ola)👩‍🦱
