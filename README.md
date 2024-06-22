@@ -19,7 +19,19 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
+
+![Research, Publications and Presentations]()
+----------------------------------
   
+![Research, Publications and Presentations]()
+----------------------------------
+
+![Awards, and Prizes]()
+----------------------------------
+
+![Professional Associations]()
+----------------------------------
+
 Github Stats:
 ----------------------------------
 [![Github stats](https://github-readme-stats.vercel.app/api?username=wumirose&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/wumirose/github-readme-stats)
