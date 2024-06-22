@@ -10,6 +10,7 @@
 - 📖 I’m currently a graduate student at UNC-Chapel Hill
 - 👨‍👩‍👧‍👦 I’m looking to collaborate on KG research projects. Find my resume [here](https://drive.google.com/file/d/1-0GNdX-iFXPZwph8vUvC1gNq0aBER4nZ/view)
 - 💬 Ask me about Nigeria jollof😋
+- ⚡ Not So Fun fact: I love to do everything, but sometimes, ends up doing nothing😭
 - 📫 How to reach me: wumirose@gmail.com <div id="badges">
   <a href="https://www.linkedin.com/in/wumirosey/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -18,8 +19,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
-- 😄 Pronouns: She/Her
-- ⚡ Not So Fun fact: I love to do everything, but sometimes, I end up doing nothing😭
   
 Github Stats:
 ----------------------------------
