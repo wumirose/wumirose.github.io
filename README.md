@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/chKLljLdaReQaJgSW8/giphy.gif"/>
 </div>
 
-## Home |
+## [Home](https://github.com/wumirose/wumirose.github.io/edit/main/README.md) |
 
 ### Hi there 👋. I'm Olawumi(Ola)👩‍🦱 - She/Her/Hers
 -------------------------------------------------
