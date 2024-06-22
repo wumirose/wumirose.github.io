@@ -1,10 +1,10 @@
 
 
-### Hi there 👋. I'm Olawumi(Ola)👩‍🦱
+<div align="center">
+  <img src="https://media.giphy.com/media/chKLljLdaReQaJgSW8/giphy.gif"/>
+</div>
 
-
-
-About Me:
+### Hi there 👋. I'm Olawumi(Ola)👩‍🦱 - She/Her/Hers
 ----------------------------------
 - 👩‍💻 I’m currently working on knowledge graph edge inference
 - 📖 I’m currently a graduate student at UNC-Chapel Hill
@@ -17,11 +17,6 @@ About Me:
   <a href="https://twitter.com/wumirosey">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-</div>
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/chKLljLdaReQaJgSW8/giphy.gif"/>
 </div>
 - 😄 Pronouns: She/Her
 - ⚡ Not So Fun fact: I love to do everything, but sometimes, I end up doing nothing😭
