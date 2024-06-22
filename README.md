@@ -2,7 +2,15 @@
 
 ### Hi there 👋. I'm Olawumi(Ola)👩‍🦱
 
-<div id="badges">
+
+
+About Me:
+----------------------------------
+- 👩‍💻 I’m currently working on knowledge graph edge inference
+- 📖 I’m currently a graduate student at UNC-Chapel Hill
+- 👨‍👩‍👧‍👦 I’m looking to collaborate on KG research projects. Find my resume [here](https://drive.google.com/file/d/1-0GNdX-iFXPZwph8vUvC1gNq0aBER4nZ/view)
+- 💬 Ask me about Nigeria jollof😋
+- 📫 How to reach me: wumirose@gmail.com <div id="badges">
   <a href="https://www.linkedin.com/in/wumirosey/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -15,14 +23,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/chKLljLdaReQaJgSW8/giphy.gif"/>
 </div>
-
-About Me:
-----------------------------------
-- 👩‍💻 I’m currently working on knowledge graph edge inference
-- 📖 I’m currently a graduate student at UNC-Chapel Hill
-- 👨‍👩‍👧‍👦 I’m looking to collaborate on KG research projects. Find my resume [here](https://drive.google.com/file/d/1-0GNdX-iFXPZwph8vUvC1gNq0aBER4nZ/view)
-- 💬 Ask me about Nigeria jollof😋
-- 📫 How to reach me: wumirose@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Not So Fun fact: I love to do everything, but sometimes, I end up doing nothing😭
   
