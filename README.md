@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/chKLljLdaReQaJgSW8/giphy.gif"/>
 </div>
 
-## [Home](https://github.com/wumirose/wumirose.github.io/edit/main/README.md) | [Academic Backgrouds]() | [Research, Publications and Presentations](https://github.com/wumirose/wumirose.github.io/research) | [Awards, and Prizes]() | [Professional Associations]() | 
+#### [Home](https://github.com/wumirose/wumirose.github.io/edit/main/README.md) | [Academic Backgrouds]() | [Research, Publications and Presentations](https://github.com/wumirose/wumirose.github.io/research) | [Awards, and Prizes]() | [Professional Associations]() | 
 
 ### Hi there 👋. I'm Olawumi(Ola)👩‍🦱 - She/Her/Hers
 -------------------------------------------------
