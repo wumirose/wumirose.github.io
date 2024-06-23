@@ -1,8 +1,5 @@
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/chKLljLdaReQaJgSW8/giphy.gif"/>
-</div>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -13,7 +10,10 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="navigation-bars">
+    <div align="center">
+      <img src="https://media.giphy.com/media/chKLljLdaReQaJgSW8/giphy.gif"/>
+  </div>
+  <div class="navigation-bars">
         <nav class="navbar" id="navbar1">
             <a href="https://wumirose.github.io/">Home</a>
             <a href="https://wumirose.github.io/background">Academic Backgrounds</a>
