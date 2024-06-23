@@ -6,29 +6,11 @@
 
 <div class="navigation-bars">
     <nav class="navbar" id="navbar1">
-        <a href="#">Home</a>
-        <a href="#">About</a>
-        <a href="#">Projects</a>
-    </nav>
-    
-    <nav class="navbar" id="navbar2">
-        <a href="#">Blog</a>
-        <a href="#">Contact</a>
-    </nav>
-
-    <nav class="navbar" id="navbar3">
-        <a href="#">Services</a>
-        <a href="#">Portfolio</a>
-    </nav>
-
-    <nav class="navbar" id="navbar4">
-        <a href="#">Shop</a>
-        <a href="#">Support</a>
-    </nav>
-
-    <nav class="navbar" id="navbar5">
-        <a href="#">Events</a>
-        <a href="#">FAQ</a>
+        <a href="https://wumirose.github.io/">Home</a>
+        <a href="https://wumirose.github.io/background">Academic Backgrounds</a>
+        <a href="https://wumirose.github.io/research">Research</a>
+        <a href="https://wumirose.github.io/awards">Awards, and Prizes</a>
+        <a href="https://wumirose.github.io/associations">Professional Associations</a>
     </nav>
 </div>
 
