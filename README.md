@@ -4,6 +4,7 @@
       <img src="https://media.giphy.com/media/chKLljLdaReQaJgSW8/giphy.gif"/>
   </div>
 
+  <div></div>
   
   <div class="navigation-bars" style="display: flex; justify-content: center;">
     <nav class="navbar" id="navbar1">
