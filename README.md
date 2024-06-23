@@ -9,7 +9,7 @@
         <a href="https://wumirose.github.io/background" style="font-size: 30px; font-family: Arial, sans-serif;">Academic Backgrounds</a>&emsp;
         <a href="https://wumirose.github.io/research" style="font-size: 30px; font-family: Arial, sans-serif;">Research</a>&emsp;
         <a href="https://wumirose.github.io/awards" style="font-size: 30px; font-family: Arial, sans-serif;">Awards & Prizes</a>&emsp;
-        <a href="https://wumirose.github.io/associations" style="font-size: 30px; font-family: Arial, sans-serif;">Professional Associations</a>&emsp;
+        <a href="https://wumirose.github.io/associations" style="font-size: 30px; font-family: Arial, sans-serif;">Professional Associations</a>
     </nav>
 </div>
 
