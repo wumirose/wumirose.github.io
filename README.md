@@ -1,16 +1,6 @@
 
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your GitHub Page Navigation</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div align="center">
+<div align="center">
       <img src="https://media.giphy.com/media/chKLljLdaReQaJgSW8/giphy.gif"/>
   </div>
   <div class="navigation-bars">
@@ -22,10 +12,7 @@
             <a href="https://wumirose.github.io/associations">Professional Associations</a>
         </nav>
     </div>
-</body>
-</html>
-
-
+    
 ### [Home](https://wumirose.github.io/)    [Academic Backgrounds](https://wumirose.github.io/background)    [Research](https://wumirose.github.io/research)    [Awards, and Prizes](https://wumirose.github.io/awards)    [Professional Associations](https://wumirose.github.io/associations)  
 
 -------------------------------------------------
