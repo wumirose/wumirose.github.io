@@ -5,7 +5,7 @@
 </div>
 
 
-### [Home](https://wumirose.github.io/) - [Academic Backgrounds](https://wumirose.github.io/background) | [Research](https://wumirose.github.io/research) | [Awards, and Prizes](https://wumirose.github.io/awards) | [Professional Associations](https://wumirose.github.io/associations) | 
+### [Home](https://wumirose.github.io/)   [Academic Backgrounds](https://wumirose.github.io/background)   [Research](https://wumirose.github.io/research) | [Awards, and Prizes](https://wumirose.github.io/awards) | [Professional Associations](https://wumirose.github.io/associations) | 
 
 -------------------------------------------------
 
