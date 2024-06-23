@@ -5,7 +5,7 @@
   </div>
   <div class="navigation-bars">
         <nav class="navbar" id="navbar1">
-            <a href="https://wumirose.github.io/">Home</a>
+            <a href="https://wumirose.github.io/">Home</a><\t>
             <a href="https://wumirose.github.io/background">Academic Backgrounds</a>
             <a href="https://wumirose.github.io/research">Research</a>
             <a href="https://wumirose.github.io/awards">Awards & Prizes</a>
