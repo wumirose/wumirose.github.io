@@ -4,6 +4,34 @@
   <img src="https://media.giphy.com/media/chKLljLdaReQaJgSW8/giphy.gif"/>
 </div>
 
+<div class="navigation-bars">
+    <nav class="navbar" id="navbar1">
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Projects</a>
+    </nav>
+    
+    <nav class="navbar" id="navbar2">
+        <a href="#">Blog</a>
+        <a href="#">Contact</a>
+    </nav>
+
+    <nav class="navbar" id="navbar3">
+        <a href="#">Services</a>
+        <a href="#">Portfolio</a>
+    </nav>
+
+    <nav class="navbar" id="navbar4">
+        <a href="#">Shop</a>
+        <a href="#">Support</a>
+    </nav>
+
+    <nav class="navbar" id="navbar5">
+        <a href="#">Events</a>
+        <a href="#">FAQ</a>
+    </nav>
+</div>
+
 ### [Home](https://wumirose.github.io/)    [Academic Backgrounds](https://wumirose.github.io/background)    [Research](https://wumirose.github.io/research)    [Awards, and Prizes](https://wumirose.github.io/awards)    [Professional Associations](https://wumirose.github.io/associations)  
 
 -------------------------------------------------
