@@ -9,7 +9,7 @@
         <a href="https://wumirose.github.io/">Home</a>
         <a href="https://wumirose.github.io/background">Academic Backgrounds</a>
         <a href="https://wumirose.github.io/research">Research</a>
-        <a href="https://wumirose.github.io/awards">Awards, and Prizes</a>
+        <a href="https://wumirose.github.io/awards">Awards & Prizes</a>
         <a href="https://wumirose.github.io/associations">Professional Associations</a>
     </nav>
 </div>
