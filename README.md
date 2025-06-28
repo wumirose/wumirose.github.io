@@ -21,7 +21,7 @@
 -------------------------------------------------
 - 👩‍💻 I’m currently working on knowledge graph edge inference
 - 📖 I’m currently a graduate student at UNC-Chapel Hill
-- 👨‍👩‍👧‍👦 I’m looking to collaborate on KG research projects. Please find my resume [here](https://drive.google.com/file/d/1-0GNdX-iFXPZwph8vUvC1gNq0aBER4nZ/view)
+- 👨‍👩‍👧‍👦 I’m looking to collaborate on KG research projects. Please find my resume [here](https://drive.google.com/file/d/1nQHvt9roExycX4UIu6B9xeuGT4TXlws8/view)
 - 💬 Ask me about Nigeria jollof😋
 - ⚡ Not So Fun fact: I love to do everything, but sometimes, I end up doing nothing😭
 - 📫 How to reach me: wumirose@gmail.com
