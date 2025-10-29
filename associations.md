@@ -1,13 +1,8 @@
-# "Professional Associations and Services"
+# Professional Associations and Services
 
 
-<nav align="center">
-  [Home](/) | [Background](/background/) | [Research](/research/) | [Awards](/awards/)
-</nav>
 
----
-
-## 🌐 Professional Memberships
+## Professional Memberships
 
 - Association for Computing Machinery (ACM)  
 - Women in Machine Learning (WiML)  
@@ -17,7 +12,7 @@
 
 ---
 
-## 🧑‍💼 Professional Service and Leadership
+## Professional Service and Leadership
 
 - **Session Chair:** PEARC Conference (2025)  
 - **Peer Reviewer:** ICECET Paris, BOSC, NeurIPS Position Papers, IEEE Workshops  
