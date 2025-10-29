@@ -1,11 +1,18 @@
 ## Research Experience
 
 **Research Assistant**, Renaissance Computing Institute (RENCI), UNC Chapel Hill (2022–Present)  
-- Developing *Explainable Enrichment-Driven Graph Reasoner (EDGAR)* for drug repurposing  
-- Building *RELATE* for relation extraction using LLMs and ontology constraints  
+- Developed *Explainable Enrichment-Driven Graph Reasoner (EDGAR)* for drug repurposing  
+- Built *RELATE* for relation extraction using LLMs and ontology constraints  
 - Collaborated on the NIH Biomedical Data Translator project: ingested data from structured and unstructured sources through  
 
 **Technologies:** Python, Neo4j, NetworkX, PyTorch, TensorFlow  
+
+**Research Assistant**, Ladoke Akintola University of Technology, Ogbomoso, Nigeria (2020–2021)  
+- Implemented *data-driven clustering algorithms for student behavioral analysis and performance prediction*
+
+
+**Technologies:** Python, Neo4j, NetworkX, PyTorch, TensorFlow  
+
 
 
 ## Publications
@@ -14,20 +21,16 @@ Up-to-date publications available on [Google Scholar](https://scholar.google.com
 
 
 
-## Student Mentorship
-
-**Undergraduate Projects:**  
-- Depression detection from social media  
-- Chronic kidney disease classification  
-- Heart disease prediction  
-
-**Graduate Mentoring:**  
-- Mentoring interdisciplinary students on computational methods in research  
-- Supporting international students navigating U.S. academia  
-
-
-
 ## Poster Presentations
-- *Enhancing KG Augmentation*, SIAM SDM Doctoral Forum (2025)  
-- *Enhancing Knowledge Graph Inference*, UNC Data Science Day (2023)  
-- *Information Extraction for Graph Generation*, CRA-WP Grad Cohort (2023)
+- *Enhancing KG Augmentation*, Doctoral Forum, SIAM International Conference on Data Mining (SDM25), Virginia
+- *Enhancing Knowledge Graph Inference through Enrichment and Grouping*, Data Science Day, School of Data Science and Society, UNC Chapel Hill, USA
+- *Information Extraction for Graph Generation & Inference (A Case Study of COVID-19 KG)* Computing Research Association-Widening Participation CRA-WP) Grad Cohort
+for Women, San Francisco, USA
+
+
+## Student Mentorship
+Co-supervised five undergraduate research projects in Data Mining and Machine Learning
+**Undergraduate Project Outcome(s):**  
+- Abdulquadri Adegbiji: [classification of chronic kidney diseases](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4tvUEjkAAAAJ&citation_for_view=4tvUEjkAAAAJ:Y0pCki6q_DkC)  
+
+
