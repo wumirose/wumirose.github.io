@@ -18,7 +18,7 @@
   - PEARC Conference (2025)  
 - **Peer Reviewer:**
   -  ICECET Paris
-  -  Bioinformatics Open Source Conference -BOSC (2025)
+  -  Bioinformatics Open Source Conference - [BOSC](https://www.open-bio.org/events/bosc-2025/) (2025)
   -  NeurIPS Position Papers
   -  IEEE Workshops   
 - **Volunteer:**
