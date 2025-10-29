@@ -7,13 +7,12 @@
 
 **Technologies:** Python, Neo4j, NetworkX, PyTorch, TensorFlow  
 
----
 
 ## Publications
 
 Up-to-date publications available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=4tvUEjkAAAAJ&view_op=list_works)
 
----
+
 
 ## Student Mentorship
 
@@ -26,7 +25,7 @@ Up-to-date publications available on [Google Scholar](https://scholar.google.com
 - Mentoring interdisciplinary students on computational methods in research  
 - Supporting international students navigating U.S. academia  
 
----
+
 
 ## Poster Presentations
 - *Enhancing KG Augmentation*, SIAM SDM Doctoral Forum (2025)  
