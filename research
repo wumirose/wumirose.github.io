@@ -1,15 +1,21 @@
-## 🔬 Research Experience
+## Research Experience
 
 **Research Assistant**, Renaissance Computing Institute (RENCI), UNC Chapel Hill (2022–Present)  
 - Developing *Explainable Enrichment-Driven Graph Reasoner (EDGAR)* for drug repurposing  
 - Building *RELATE* for relation extraction using LLMs and ontology constraints  
-- Collaborating with the NIH Biomedical Data Translator consortium  
+- Collaborated on the NIH Biomedical Data Translator project: ingested data from structured and unstructured sources through  
 
 **Technologies:** Python, Neo4j, NetworkX, PyTorch, TensorFlow  
 
 ---
 
-## 🧑‍🎓 Student Mentorship
+## Publications
+
+Up-to-date publications available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=4tvUEjkAAAAJ&view_op=list_works)
+
+---
+
+## Student Mentorship
 
 **Undergraduate Projects:**  
 - Depression detection from social media  
@@ -22,15 +28,7 @@
 
 ---
 
-## 📚 Publications
-
-1. Olasunkanmi, O.R. et al. (2025). *RELATE: Relation Extraction in Biomedical Abstracts with LLMs and Ontology Constraints.* **arXiv:2509.19057**
-2. Fecho, K., Glusman, G., Bizon, C., Olasunkanmi, O.R., et al. (2025). *Announcing the Biomedical Data Translator.* **Clinical and Translational Science**
-3. Olasunkanmi, O.R., Morris, E., Kebede, Y., Lee, H., Ahalt, S.C., Tropsha, A., Bizon, C. (2024). *EDGAR for Large Knowledge Graphs.* **IEEE Big Data**
-
----
-
-## 🧩 Poster Presentations
+## Poster Presentations
 - *Enhancing KG Augmentation*, SIAM SDM Doctoral Forum (2025)  
 - *Enhancing Knowledge Graph Inference*, UNC Data Science Day (2023)  
 - *Information Extraction for Graph Generation*, CRA-WP Grad Cohort (2023)
