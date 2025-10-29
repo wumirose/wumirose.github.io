@@ -1,12 +1,6 @@
----
-title: "Awards & Prizes"
----
+# Awards & Prizes
 
-<nav align="center">
-  [Home](/) | [Background](/background/) | [Research](/research/) | [Associations](/associations/)
-</nav>
 
----
 
 ## 🏅 Awards and Fellowships
 
