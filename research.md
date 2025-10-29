@@ -5,7 +5,6 @@
 - Built *RELATE* for relation extraction using LLMs and ontology constraints  
 - Collaborated on the NIH Biomedical Data Translator project: ingested data from structured and unstructured sources through  
 
-**Technologies:** Python, Neo4j, NetworkX, PyTorch, TensorFlow  
 
 **Research Assistant**, Ladoke Akintola University of Technology, Ogbomoso, Nigeria (2020–2021)  
 - Implemented *data-driven clustering algorithms for student behavioral analysis and performance prediction*
