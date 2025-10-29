@@ -17,7 +17,7 @@
 </div>
 -------------------------------------------------
 
-### Hi there 👋. I'm Olawumi(Ola)👩‍🦱 - She/Her/Hers
+### Hi there 👋. I'm Olawumi(Ola)👩‍🦱 
 -------------------------------------------------
 - 📖 I am a graduate student at UNC-Chapel Hill
 - 👩‍💻 Currently working on knowledge graph (KG) data mining and edge inference
