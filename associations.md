@@ -25,4 +25,4 @@
   - NeurIPS Logistics Team (2023)
   - WiML Workshop Reviewer  (2023, 2024, 2025)
 - **University Service:**
-  - Graduate Representative, UNC Student Technology Council
+  - Graduate and Professional Student Government Representative, UNC Student Technology Council (Fall 2023 - Spring 2025)
