@@ -1,5 +1,4 @@
 # Awards and Fellowships
-# 🏅 Awards and Fellowships
 
 - NSF Travel Award, MLSystem (2024)
 - NSF Travel Award, IEEE BigData (2024)  
