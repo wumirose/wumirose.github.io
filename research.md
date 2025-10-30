@@ -25,6 +25,7 @@ Up-to-date publications available on [Google Scholar](https://scholar.google.com
 - *Enhancing Knowledge Graph Inference through Enrichment and Grouping*, Data Science Day, School of Data Science and Society, UNC Chapel Hill, USA
 - *Information Extraction for Graph Generation & Inference (A Case Study of COVID-19 KG)* Computing Research Association-Widening Participation CRA-WP) Grad Cohort
 for Women, San Francisco, USA
+- *Deep Neural Network-Based Approach to Skin Cancer Classification*, 2nd Black in AI Workshop, NeurIPS 2018, Montreal, Canada
 
 
 ## Student Mentorship
