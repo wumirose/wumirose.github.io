@@ -16,19 +16,18 @@ B.Tech in Computer Science, *First Class Honors (GPA 4.52/5.0)*
 ## Teaching Experience
 
 **Graduate Teaching Assistant**, UNC Chapel Hill (2021–Present)  
-- Led sections for *Introduction to Data Science* and *Introduction to Scientific Programming*  
-- Developed lab materials, practice problems, and automated grading scripts  
-- Mentored 150+ students on Python programming, data analysis, and problem-solving  
+- Led recitation sections and held office hours for 69 students in *Introduction to Data Science* (DATA110) 
+- Held office hours  and provided In-class debugging and assistance for a combined 200 students in *Introduction to Scientific Programming*  
+- Discussed practice problems from the lab materials to prepare students for collaborative exercises.
+  
 
-**Data Matters Program – RENCI & Odum Institute (2022–2024)**  
-- Taught intensive workshops on Python and Deep Learning with TensorFlow  
-- Mentored professionals from diverse disciplines  
-- Designed project-based curriculum for interdisciplinary learning  
+**Data Matters Program (Online)– RENCI & Odum Institute (Summer 2022, 2023, and 2024)**  
+- Resolve and debug students' code during live sessions on Python and Deep Learning with TensorFlow  
+- Monitored the Zoom chat for Questions during the training 
 
 **Teaching Assistant, LAUTECH (2020–2021)**  
 - Courses: Discrete Mathematics, Linear Algebra, Programming Fundamentals  
-- Co-supervised 5 undergraduate research projects  
-- Developed data-driven student support systems  
+- Co-supervised 5 undergraduate research projects in Data Mining and Machine Learning 
 
 
 
