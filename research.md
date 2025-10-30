@@ -30,6 +30,7 @@ for Women, San Francisco, USA
 
 ## Student Mentorship
 Co-supervised five undergraduate research projects in Data Mining and Machine Learning
+
 **Undergraduate Project Outcome(s):**  
 - Abdulquadri Adegbiji: [classification of chronic kidney diseases](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4tvUEjkAAAAJ&citation_for_view=4tvUEjkAAAAJ:Y0pCki6q_DkC)  
 
