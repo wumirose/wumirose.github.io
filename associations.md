@@ -22,7 +22,7 @@
   -  Neural Information Processing Systems (NeurIPS) Position Papers, San Diego (2025)    
 - **Volunteer:**
   - NeurIPS Logistics Team (2023)
-  - Women in Machine Learning (WiML) Reviewer,  NeurIPS  (2023, 2024, 2025)
+  - Women in Machine Learning (WiML) Poster Reviewer,  WIML Workshop at NeurIPS  (2023, 2024, 2025)
   - WIML Poster Mentor, 2020
 - **University Service:**
   - Graduate and Professional Student Government Representative, UNC Student Technology Council (Fall 2023 - Spring 2025)
