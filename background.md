@@ -3,8 +3,8 @@
 ## Education
 
 **University of North Carolina (UNC), Chapel Hill**  
-*Ph.D. in Computer Science (Expected 05/2026)*  
-*M.Sc. in Computer Science (05/2023)*  
+-  *Ph.D. in Computer Science (Expected 05/2026)*  
+-  *M.Sc. in Computer Science (05/2023)*  
 **Dissertation:** Knowledge Graph Augmentation with Data Ingestion and Explainable Edge Inference   
 **Advisors:** Stanley Ahalt & [Harlin Lee](https://harlinlee.github.io/)  
 
