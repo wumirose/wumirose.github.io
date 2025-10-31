@@ -16,14 +16,15 @@
 ## Teaching Experience
 
   -  **Graduate Teaching Assistant**, UNC Chapel Hill (2021–Present)  
-    - Led recitation sections and held office hours for 69 students in *Introduction to Data Science* (DATA110) 
-    - Held office hours  and provided In-class debugging and assistance for a combined 200 students in *Introduction to Scientific Programming*  
+    - Held weekly office hours on Tuesdays and led two Friday recitation sessions for *Introduction to Data Science (DATA 110)* — the first with 33 students and the second with 36 students. 
+    - Provided in-class debugging support and additional office hours for over 200 students in *Introduction to Scientific Programming*.  
     - Discussed practice problems from the lab materials to prepare students for collaborative exercises.
     
   
-  -  **Teaching Assistant, Data Matters Program (Online)– RENCI & Odum Institute (Summer 2022, 2023, and 2024)**  
-    - Resolve and debug students' code during live sessions on Python and Deep Learning with TensorFlow  
-    - Monitored the Zoom chat for Questions during the training 
+  -  **Teaching Assistant, 5-Day Data Matters Summer Course (Online)– RENCI & Odum Institute (Summer 2022, 2023, and 2024)**  
+    - Debugged students' code during live training sessions on Python and Deep Learning with TensorFlow  
+    - Monitored the Zoom chat for Questions from participants during the training
+    - Take a daily record of students' attendance and participation
   
   -  **Teaching Assistant, LAUTECH (2020–2021)**  
     - Courses: Discrete Mathematics, Linear Algebra, Programming Fundamentals  
