@@ -2,43 +2,43 @@
 
 ## Education
 
-  - **University of North Carolina (UNC), Chapel Hill**  
-      -  *Ph.D. in Computer Science (Expected 05/2026)*  
-      -  *M.Sc. in Computer Science (05/2023)*
-      **Dissertation:** Knowledge Graph Augmentation with Data Ingestion and Explainable Edge Inference   
-      **Advisors:** Stanley Ahalt & [Harlin Lee](https://harlinlee.github.io/)  
-  
-  -  **Ladoke Akintola University of Technology, Nigeria**  
-    -  B.Tech in Computer Science, *First Class Honors (GPA 4.52/5.0)*  
+- **University of North Carolina (UNC), Chapel Hill**  
+  - *Ph.D. in Computer Science (Expected May 2026)*  
+  - *M.Sc. in Computer Science (May 2023)*  
+  **Dissertation:** *Knowledge Graph Augmentation with Data Ingestion and Explainable Edge Inference*  
+  **Advisors:** Stanley Ahalt & [Harlin Lee](https://harlinlee.github.io/)
 
+- **Ladoke Akintola University of Technology, Nigeria**  
+  - *B.Tech. in Computer Science, First Class Honors (GPA: 4.52/5.00)*  
 
 
 ## Teaching Experience
 
-  -  **Graduate Teaching Assistant**, UNC Chapel Hill (2021–Present)  
-    - Held weekly office hours on Tuesdays and led two Friday recitation sessions for *Introduction to Data Science (DATA 110)* — the first with 33 students and the second with 36 students. 
-    - Provided in-class debugging support and additional office hours for over 200 students in *Introduction to Scientific Programming*.  
-    - Discussed practice problems from the lab materials to prepare students for collaborative exercises.
-    
-  
-  -  **Teaching Assistant, 5-Day Data Matters Summer Course (Online)– RENCI & Odum Institute (Summer 2022, 2023, and 2024)**  
-    - Debugged students' code during live training sessions on Python and Deep Learning with TensorFlow  
-    - Monitored the Zoom chat for Questions from participants during the training
-    - Take a daily record of students' attendance and participation
-  
-  -  **Teaching Assistant, LAUTECH (2020–2021)**  
-    - Courses: Discrete Mathematics, Linear Algebra, Programming Fundamentals  
-    - Co-supervised 5 undergraduate research projects in Data Mining and Machine Learning 
-  
-  -  **Program Assistant, Data Science Nigeria (2020–2021)**  
-    - Courses: Discrete Mathematics, Linear Algebra, Programming Fundamentals  
-    - Co-supervised 5 undergraduate research projects in Data Mining and Machine Learning 
+- **Graduate Teaching Assistant**, UNC Chapel Hill (2021–Present)  
+  - Held weekly office hours on **Tuesdays** and led **two Friday recitation sessions** for *Introduction to Data Science (DATA 110)* — the first with 33 students and the second with 36 students.  
+  - **Graded student labs and homework assignments**, providing detailed feedback to reinforce key data science concepts.  
+  - Provided in-class debugging support and additional office hours for over 200 students in *Introduction to Scientific Programming*.  
+  - Discussed lab problems and guided students through collaborative exercises to strengthen problem-solving skills.  
 
+- **Teaching Assistant, Data Matters Summer Course (Online)** – RENCI & Odum Institute (Summers 2022, 2023, and 2024)  
+  - Debugged students' Python and TensorFlow code during live training sessions.  
+  - Monitored the Zoom chat and responded to participant questions in real time.  
+  - Recorded daily attendance and participation throughout the week-long course.  
+
+- **Teaching Assistant**, Ladoke Akintola University of Technology (2020–2021)  
+  - Courses: *Discrete Mathematics, Linear Algebra, Programming Fundamentals*.  
+  - Co-supervised 5 undergraduate research projects in Data Mining and Machine Learning.  
+
+- **Program Assistant**, Data Science Nigeria (2020–2021)  
+  - Developed the **Python programming** and **Introduction to Machine Learning** syllabus for the national training program.  
+  - Assisted in live instruction, student evaluation, and workshop coordination.  
+  - Supported mentoring activities for beginner participants transitioning into applied data science.  
 
 
 ## Teaching Philosophy
 
-  My teaching approach is grounded in three principles:
-    1. **Relevance drives engagement** — connect theory to real-world impact.  
-    2. **Inclusion requires intentional design** — multiple entry points for diverse learners.  
-    3. **Productive struggle builds confidence** — scaffold challenges to support growth.
+My teaching approach is grounded in three principles:  
+
+1. **Relevance drives engagement** — connect theory to real-world impact.  
+2. **Inclusion requires intentional design** — create multiple entry points for diverse learners.  
+3. **Productive struggle builds confidence** — scaffold challenges to support growth.
