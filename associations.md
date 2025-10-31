@@ -17,10 +17,9 @@
 - **Session Chair:**
   - Practice and Experience in Advanced Research Computing (PEARC) Conference Workshop, Application & Software Track 6, PEARC25, Columbus, Ohio (2025)  
 - **Peer Reviewer:**
-  -  International Conference on Electrical, Computer and Energy Technologies (ICECET), Paris (2025)
+  -  IEEE International Conference on Electrical, Computer and Energy Technologies (ICECET), Paris (2025)
   -  Bioinformatics Open Source Conference - [BOSC](https://www.open-bio.org/events/bosc-2025/), Liverpool, UK (2025)
-  -  Neural Information Processing Systems (NeurIPS) Position Papers, San Diego (2025)
-  -  IEEE Workshops   
+  -  Neural Information Processing Systems (NeurIPS) Position Papers, San Diego (2025)    
 - **Volunteer:**
   - NeurIPS Logistics Team (2023)
   - Women in Machine Learning (WiML) Reviewer,  NeurIPS  (2023, 2024, 2025)
