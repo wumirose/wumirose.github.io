@@ -17,14 +17,14 @@
 </div>
 -------------------------------------------------
 
-### Hi there 👋. I'm Olawumi(Ola)👩‍🦱 
--------------------------------------------------
-- 📖 I am a graduate student at UNC-Chapel Hill
-- 👩‍💻 Currently working on knowledge graph (KG) data mining and edge inference
-- 👨‍👩‍👧‍👦 I’m looking to collaborate on KG research projects. Please find my resume [here](https://drive.google.com/file/d/1nQHvt9roExycX4UIu6B9xeuGT4TXlws8/view)
-- 💬 Ask me about Nigerian jollof😋
-- ⚡ Not So Fun fact: I love to do everything, but sometimes, I end up doing nothing😭
-- 📫 How to reach me: wumirose@gmail.com
+### Hi there 👋. I'm Olawumi(Ola)
+------------------------------------------------
+I am a Doctoral Candidate at the University of North Carolina, Chapel Hill
+-  Currently working on knowledge graph (KG) data mining and edge inference
+-  I’m looking to collaborate on KG research projects. Please find my resume [here](https://drive.google.com/file/d/1nQHvt9roExycX4UIu6B9xeuGT4TXlws8/view)
+-  Ask me about Nigerian jollof😋
+-  Not So Fun fact: I love to do everything, but sometimes, I end up doing nothing😭
+-  How to reach me: wumirose@gmail.com
   <a href="https://www.linkedin.com/in/wumirosey/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
