@@ -5,7 +5,7 @@
 - **University of North Carolina (UNC), Chapel Hill**  
   - *Ph.D. in Computer Science (Expected May 2026)*  
   - *M.Sc. in Computer Science (May 2023)*  
-  **Dissertation:** *Knowledge Graph Augmentation with Data Ingestion and Explainable Edge Inference*  
+  **Dissertation:** *Knowledge Graph Augmentation with Data Integration and Explainable Edge Inference*  
   **Advisors:** Stanley Ahalt & [Harlin Lee](https://harlinlee.github.io/)
 
 - **Ladoke Akintola University of Technology, Nigeria**  
@@ -16,8 +16,8 @@
 
 - **Graduate Teaching Assistant**, UNC Chapel Hill (2021–Present)  
   - Held weekly office hours on **Tuesdays** and led **two Friday recitation sessions** for *Introduction to Data Science (DATA 110)* — the first with 33 students and the second with 36 students.  
-  - **Graded student labs and homework assignments**, providing detailed feedback to reinforce key data science concepts.  
-  - Provided in-class debugging support and additional office hours for over 200 students in *Introduction to Scientific Programming*.  
+  - Graded student labs and homework assignments, providing detailed feedback to reinforce key data science concepts.  
+  - Provided in-class debugging support and additional office hours for over 200 students in *Introduction to Scientific Programming (COMP116)*.  
   - Discussed lab problems and guided students through collaborative exercises to strengthen problem-solving skills.  
 
 - **Teaching Assistant, Data Matters Summer Course (Online)** – RENCI & Odum Institute (Summers 2022, 2023, and 2024)  
