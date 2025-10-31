@@ -21,11 +21,15 @@ B.Tech in Computer Science, *First Class Honors (GPA 4.52/5.0)*
 - Discussed practice problems from the lab materials to prepare students for collaborative exercises.
   
 
-**Data Matters Program (Online)– RENCI & Odum Institute (Summer 2022, 2023, and 2024)**  
+**Teaching Assistant, Data Matters Program (Online)– RENCI & Odum Institute (Summer 2022, 2023, and 2024)**  
 - Resolve and debug students' code during live sessions on Python and Deep Learning with TensorFlow  
 - Monitored the Zoom chat for Questions during the training 
 
 **Teaching Assistant, LAUTECH (2020–2021)**  
+- Courses: Discrete Mathematics, Linear Algebra, Programming Fundamentals  
+- Co-supervised 5 undergraduate research projects in Data Mining and Machine Learning 
+
+**Program Assistant, Data Science Nigeria (2020–2021)**  
 - Courses: Discrete Mathematics, Linear Algebra, Programming Fundamentals  
 - Co-supervised 5 undergraduate research projects in Data Mining and Machine Learning 
 
