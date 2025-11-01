@@ -1,3 +1,8 @@
+---
+layout: defaults
+title: Awards and Fellowships
+---
+
 ## Awards and Fellowships
 
 - NSF Travel Award – MLSystem (2024)  
