@@ -1,5 +1,7 @@
-# Professional Associations and Services
-
+---
+layout: default
+title: Professional Associations and Services
+---
 
 
 ## Professional Memberships
