@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: defaults
 title: Professional Associations and Services
 ---
 
