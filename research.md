@@ -1,3 +1,7 @@
+---
+layout: defaults
+title: Research 
+---
 ## Research Experience
 
 **Research Assistant**, Renaissance Computing Institute (RENCI), UNC Chapel Hill (2022–Present)  
