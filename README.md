@@ -62,7 +62,7 @@ Top Programming Languages:
 
 Others:
 - Graph Databases | TensorFlow | Pytorch | Scikit Learn
-- CSS | SQL | WordPress | Joomla | Mobirise 
+- REACT | SQL | WordPress | Joomla | Mobirise 
 
 Github Streak:
 -----------------------------------------------
