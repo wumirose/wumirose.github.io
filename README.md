@@ -19,7 +19,7 @@
 
 
 ------------------------------------------------
-## Hi there 👋. I'm Olawumi(Ola)
+## Hi there 👋
 
 I am a Doctoral Candidate at the University of North Carolina, Chapel Hill
 -  Currently working on knowledge graph (KG) data mining and edge inference, and looking to collaborate on KG research projects. Please find my resume [here](https://drive.google.com/file/d/1nQHvt9roExycX4UIu6B9xeuGT4TXlws8/view)
