@@ -11,7 +11,7 @@ title: Home
 
 ## Hi there 👋
 
-I am a Doctoral Candidate in Computer Science** at the University of North Carolina at Chapel Hill, with extensive teaching experience supporting over 300 students in programming, data science, and machine learning. My research focuses on data mining and biomedical knowledge graph inference, with a proven track record in curriculum development, student mentorship, and fostering inclusive learning communities.  I have a strong background in Python, machine learning frameworks, and data analytics, particularly with applications in healthcare.
+I am a Doctoral Candidate in Computer Science at the University of North Carolina at Chapel Hill, with extensive teaching experience supporting over 300 students in programming, data science, and machine learning. My research focuses on data mining and biomedical knowledge graph inference, with a proven track record in curriculum development, student mentorship, and fostering inclusive learning communities.  I have a strong background in Python, machine learning frameworks, and data analytics, particularly in healthcare applications.
 
 - Currently working on knowledge graph (KG) data mining and edge inference, and seeking collaborations on KG research projects.  
   Please find my resume [here](https://drive.google.com/file/d/1nQHvt9roExycX4UIu6B9xeuGT4TXlws8/view).  
