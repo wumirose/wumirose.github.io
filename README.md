@@ -50,10 +50,12 @@ I am a Doctoral Candidate at the University of North Carolina, Chapel Hill
   - *B.Tech. in Computer Science, First Class Honors (GPA: 4.52/5.00)*  
 
 
-
-
-Github Stats:
 -----------------------------------------------
+Tech Stack:
+- Python | Graph Databases | TensorFlow | Pytorch | Scikit Learn
+- HTML | CSS | SQL | WordPress | Joomla | Mobirise 
+Github Stats:
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=wumirose&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/wumirose/github-readme-stats)
 
 Top Programming Languages:
@@ -64,9 +66,5 @@ Github Streak:
 -----------------------------------------------
 [![GitHub Streak](https://streak-stats.demolab.com/?user=wumirose&theme=dark)](https://git.io/streak-stats)
 
-Tech Stack:
-- Python | Graph Databases | TensorFlow | Pytorch | Scikit Learn
-- HTML | CSS | SQL | WordPress | Joomla | Mobirise 
------------------------------------------------
 
 
