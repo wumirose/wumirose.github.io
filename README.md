@@ -7,7 +7,7 @@
   <!-- Left: Name -->
   <div style="font-size: 22px; font-weight: bold; font-family: Arial, sans-serif;">
     <a href="https://wumirose.github.io/" style="text-decoration: none; color: black;">
-      Olawumi Roseline Olasunkanmi
+      Olawumi Olasunkanmi
     </a>
   </div>
 
