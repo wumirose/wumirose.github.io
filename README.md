@@ -28,7 +28,7 @@
     gap: 20px;
     max-width: 70%;
   ">
-    <a href="https://wumirose.github.io/" style="text-decoration: none; color: #333;">Home</a>
+    <!-- <a href="https://wumirose.github.io/" style="text-decoration: none; color: #333;">Home</a> -->
     <a href="/research" style="text-decoration: none; color: #333;">Research</a>
     <a href="/teaching" style="text-decoration: none; color: #333;">Teaching</a>
     <a href="/awards" style="text-decoration: none; color: #333;">Awards & Prizes</a>
@@ -80,7 +80,6 @@ I am a Doctoral Candidate at the University of North Carolina, Chapel Hill
 
 
 -----------------------------------------------
-
 Github Stats:
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=wumirose&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/wumirose/github-readme-stats)
