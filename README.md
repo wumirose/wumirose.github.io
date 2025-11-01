@@ -1,17 +1,17 @@
-<!-- Fixed Header Section -->
+
 <header style="position: fixed; top: 0; left: 0; width: 100%; 
                background-color: white; border-bottom: 1px solid #ddd;
                display: flex; justify-content: space-between; align-items: center;
-               padding: 10px 40px; z-index: 1000;">
+               padding: 50px 40px; z-index: 1000;">
 
-  <!-- Left: Name -->
+ 
   <div style="font-size: 22px; font-weight: bold; font-family: Arial, sans-serif;">
     <a href="https://wumirose.github.io/" style="text-decoration: none; color: black;">
       Olawumi Olasunkanmi
     </a>
   </div>
 
-  <!-- Right: Navigation Bar -->
+ 
   <nav style="font-family: Arial, sans-serif; font-size: 18px;">
     <a href="https://wumirose.github.io/" style="margin-left: 20px; text-decoration: none; color: #333;">Home</a>
     <a href="/research" style="margin-left: 20px; text-decoration: none; color: #333;">Research</a>
@@ -21,10 +21,9 @@
   </nav>
 </header>
 
-<!-- Spacer to prevent content overlap -->
 <div style="margin-top: 90px;"></div>
 
-<!-- Hero Image -->
+
 <div align="center">
   <img src="https://media.giphy.com/media/chKLljLdaReQaJgSW8/giphy.gif" alt="Header GIF"/>
 </div>
