@@ -19,7 +19,7 @@
 
 
 ------------------------------------------------
-### Hi there 👋. I'm Olawumi(Ola)
+## Hi there 👋. I'm Olawumi(Ola)
 
 I am a Doctoral Candidate at the University of North Carolina, Chapel Hill
 -  Currently working on knowledge graph (KG) data mining and edge inference, and looking to collaborate on KG research projects. Please find my resume [here](https://drive.google.com/file/d/1nQHvt9roExycX4UIu6B9xeuGT4TXlws8/view)
@@ -37,6 +37,19 @@ I am a Doctoral Candidate at the University of North Carolina, Chapel Hill
         </a>
 </div>  
   
+
+## Education
+
+- **University of North Carolina (UNC), Chapel Hill**  
+  - *Ph.D. in Computer Science (Expected May 2026)*  
+  - *M.Sc. in Computer Science (May 2023)*  
+  **Dissertation:** *Knowledge Graph Augmentation with Data Integration and Explainable Edge Inference*  
+  **Advisors:** [Stan Ahalt](https://datascience.unc.edu/person/stan-ahalt/) & [Harlin Lee](https://harlinlee.github.io/)
+
+- **Ladoke Akintola University of Technology, Nigeria**  
+  - *B.Tech. in Computer Science, First Class Honors (GPA: 4.52/5.00)*  
+
+
 
 
 Github Stats:
