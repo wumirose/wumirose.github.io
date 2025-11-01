@@ -1,3 +1,7 @@
+---
+layout: defaults
+title: Home
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/chKLljLdaReQaJgSW8/giphy.gif" alt="Header GIF"/>
