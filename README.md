@@ -79,7 +79,7 @@ I am a Doctoral Candidate at the University of North Carolina, Chapel Hill
 - **Ladoke Akintola University of Technology, Nigeria**  
   - *B.Tech. in Computer Science, First Class Honors (GPA: 4.52/5.00)*  
 
----
+
 -----------------------------------------------
 
 Github Stats:
