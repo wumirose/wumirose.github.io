@@ -1,3 +1,8 @@
+---
+layout: defaults
+title: Teaching
+---
+
 ## Teaching Experience
 
 - **Graduate Teaching Assistant**, UNC Chapel Hill (2021–Present)  
