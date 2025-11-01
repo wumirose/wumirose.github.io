@@ -1,43 +1,4 @@
-<header style="
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  background-color: white;
-  border-bottom: 1px solid #ddd;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px 25px;
-  box-sizing: border-box;
-  z-index: 1000;
-">
 
-  <div style="font-size: 22px; font-weight: bold; font-family: Arial, sans-serif; white-space: nowrap;">
-    <a href="https://wumirose.github.io/" style="text-decoration: none; color: black;">
-      Olawumi Olasunkanmi
-    </a>
-  </div>
-
-  <nav style="
-    font-family: Arial, sans-serif;
-    font-size: 17px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-end;
-    gap: 20px;
-    max-width: 70%;
-  ">
-    <!-- <a href="https://wumirose.github.io/" style="text-decoration: none; color: #333;">Home</a> -->
-    <a href="/research" style="text-decoration: none; color: #333;">Research</a>
-    <a href="/teaching" style="text-decoration: none; color: #333;">Teaching</a>
-    <a href="/awards" style="text-decoration: none; color: #333;">Awards & Prizes</a>
-    <a href="/associations" style="text-decoration: none; color: #333;">Professional Associations</a>
-  </nav>
-</header>
-
-
-<div style="margin-top: 90px;"></div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/chKLljLdaReQaJgSW8/giphy.gif" alt="Header GIF"/>
