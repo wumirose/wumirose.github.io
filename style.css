@@ -18,3 +18,12 @@
     background-color: #f0f0f0; /* Adjust hover background color */
 }
 
+nav a:hover {
+  color: #007acc;
+  text-decoration: underline;
+}
+
+nav a.active {
+  font-weight: bold;
+  color: #007acc;
+}
