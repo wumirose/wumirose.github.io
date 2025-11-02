@@ -16,7 +16,7 @@ title: Teaching
   - Monitored the Zoom chat and responded to participant questions in real time.  
   - Recorded daily attendance and participation throughout the week-long course.  
 
-- **Teaching Assistant**, Ladoke Akintola University of Technology (2020–2021)  
+- **Substitute Lecturer**, Ladoke Akintola University of Technology (2020–2021)  
   - Courses: *Discrete Mathematics, Linear Algebra, Programming Fundamentals*.  
   - Co-supervised 5 undergraduate research projects in Data Mining and Machine Learning.  
 
