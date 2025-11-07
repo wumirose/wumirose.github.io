@@ -3,13 +3,20 @@ layout: defaults
 title: Home
 ---
 
-## Olawumi Roseline Olasunkanmi
-
-**Doctoral Candidate in Computer Science**  
-University of North Carolina at Chapel Hill  
-Expected Graduation: May 2026
-
-📧 [roolasunkanmi@unc.edu](mailto:roolasunkanmi@unc.edu) | 📄 [CV](https://drive.google.com/file/d/1nQHvt9roExycX4UIu6B9xeuGT4TXlws8/view) | 💼 [LinkedIn](https://www.linkedin.com/in/wumirosey/)
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px;">
+  <img src="/assets/images/profile.jpg" alt="Olawumi Olasunkanmi" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;"/>
+  <div>
+    <h2 style="margin: 0;">Olawumi Roseline Olasunkanmi</h2>
+    <p style="margin: 5px 0;"><strong>Doctoral Candidate in Computer Science</strong><br/>
+    University of North Carolina at Chapel Hill<br/>
+    Expected Graduation: May 2026</p>
+    <p style="margin: 5px 0;">
+      📧 <a href="mailto:roolasunkanmi@unc.edu">roolasunkanmi@unc.edu</a> | 
+      📄 <a href="https://drive.google.com/file/d/1nQHvt9roExycX4UIu6B9xeuGT4TXlws8/view">CV</a> | 
+      💼 <a href="https://www.linkedin.com/in/wumirosey/">LinkedIn</a>
+    </p>
+  </div>
+</div>
 
 ---
 
