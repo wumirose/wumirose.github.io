@@ -25,8 +25,8 @@ I am a Doctoral Candidate in Computer Science at the University of North Carolin
 - Natural Language Processing for Scientific Literature
 
 
---
-### Connect With Me
+---
+## Connect With Me
 
 I'm always happy to discuss teaching, research collaborations, or opportunities in computer science education.
 
