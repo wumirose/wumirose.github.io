@@ -12,7 +12,7 @@ title: Professional Associations and Services
 - Institute of Electrical and Electronics Engineers (IEEE)  
 - International Association of Engineers (IAENG)
 
-
+---
 
 ## Professional Service and Leadership
 
