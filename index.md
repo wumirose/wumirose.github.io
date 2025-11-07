@@ -49,17 +49,16 @@ I am seeking a **teaching-focused faculty position** at universities or liberal 
 
 **Experience:** 300+ students across programming, data structures, data science, and machine learning
 
-**Courses Taught:**
-- Introduction to Data Science (DATA110) — UNC Chapel Hill
-- Introduction to Scientific Programming (COMP116) — UNC Chapel Hill  
-- Data Matters Summer Program (Python & Deep Learning) — UNC Odum Institute & RENCI
-- Programming Fundamentals, Discrete Mathematics, Linear Algebra — LAUTECH, Nigeria
-- AI Training Program — Data Science Nigeria
+- Introduction to Data Science (DATA110)
+- Introduction to Scientific Programming (COMP116)
+- Data Matters Summer Program (Python & Deep Learning)
+- Programming Fundamentals, Discrete Mathematics, Linear Algebra
+- Python and Machine Learning (AI Training Program)
 
 **Teaching Philosophy:**  
 My teaching centers on (1) relevance drives engagement, (2) inclusion requires intentional design, and (3) productive struggle builds confidence.
 
-[Learn more about my teaching →](/teaching)
+[Learn more about my teaching..](/teaching)
 
 ---
 
@@ -69,17 +68,12 @@ My teaching centers on (1) relevance drives engagement, (2) inclusion requires i
 - Biomedical Knowledge Graphs & Data Mining
 - Explainable Artificial Intelligence  
 - Machine Learning Applications in Healthcare
-- Natural Language Processing for Scientific Literature
-
-**Current Projects:**
-- **ROBOKOP:** Developing explainable AI methods for biomedical knowledge discovery with the NIH Biomedical Data Translator Consortium
-- **RELATE:** Building NLP tools for automated relation extraction from biomedical literature using large language models
 
 **Recent Publications:**
-- **Olasunkanmi, O.R.**, et al. (2025). "RELATE: Relation Extraction in Biomedical Abstracts with LLMs and Ontology Constraints." *Under Review*
+- **Olasunkanmi, O.R.**, et al. (2025). "RELATE: Relation Extraction in Biomedical Abstracts with LLMs and Ontology Constraints." 
 - **Olasunkanmi, O.R.**, et al. (2024). "Explainable Enrichment-Driven Graph Reasoner (EDGAR)." *IEEE Big Data Conference*
 
-[View full research & publications →](/research)
+[View full research & publications..](/research)
 
 ---
 
