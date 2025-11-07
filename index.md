@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px;">
-  <img src="/assets/images/profile.jpg" alt="Olawumi Olasunkanmi" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;"/>
+  <img src="/assets/images/DSC_9441.jpg" alt="Olawumi Olasunkanmi" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;"/>
   <div>
     <h2 style="margin: 0;">Olawumi Roseline Olasunkanmi</h2>
     <p style="margin: 5px 0;"><strong>Doctoral Candidate in Computer Science</strong><br/>
