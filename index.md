@@ -28,7 +28,7 @@ I am seeking a **teaching-focused faculty position** at universities or liberal 
 - [Teaching Experience & Philosophy](/teaching) — Courses taught, pedagogical approach, student mentorship
 - [Research & Publications](/research) — Current projects, publications, ongoing collaborations
 - [Awards & Recognition](/awards) — Fellowships, travel awards, honors
-- [Professional Service](/membership) — Memberships, reviewing, leadership roles
+- [Professional Service](/associations) — Memberships, reviewing, leadership roles
 
 ---
 
