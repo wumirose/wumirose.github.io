@@ -118,8 +118,6 @@ Top Programming Languages:
 -----------------------------------------------
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wumirose&hide_progress=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/wumirose/github-readme-stats)
 
-Others:
-  Graph Databases | TensorFlow | Pytorch | Scikit Learn | REACT | SQL | WordPress | Joomla | Mobirise 
 
 Github Streak:
 -----------------------------------------------
