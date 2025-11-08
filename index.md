@@ -14,9 +14,9 @@ title: Home
     <p style="margin: 5px 0;">
       📧 <a href="mailto:roolasunkanmi@unc.edu">roolasunkanmi@unc.edu</a> | 
       📄 <a href="https://drive.google.com/file/d/1qDdwS1B2fHnVW_0KCw4x7jIbL6OpiPLE/view" target="_blank" rel="noopener noreferrer">CV</a> | 
-      📚 <a href="https://scholar.google.com/citations?user=4tvUEjkAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a> |
-      💼 <a href="https://www.linkedin.com/in/wumirosey/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
-      ✖️ <a href="https://www.x.com/wumirosey/" target="_blank" rel="noopener noreferrer">Twitter/X</a>
+      💼 <a href="https://scholar.google.com/citations?user=4tvUEjkAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a> |
+      [in] <a href="https://www.linkedin.com/in/wumirosey/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
+      𝕏 <a href="https://www.x.com/wumirosey/" target="_blank" rel="noopener noreferrer">Twitter/X</a>
     </p>
   </div>
 </div>
