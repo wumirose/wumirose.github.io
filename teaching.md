@@ -16,15 +16,14 @@ title: Teaching
   - Monitored the Zoom chat and responded to participant questions in real time.  
   - Recorded daily attendance and participation throughout the week-long course.  
 
-- **Substitute Lecturer**, Ladoke Akintola University of Technology (2020–2021)  
-  - Courses: *Discrete Mathematics, Linear Algebra, Programming Fundamentals*.  
-  - Co-supervised 5 undergraduate research projects in Data Mining and Machine Learning.  
-
-- **Program Assistant**, Data Science Nigeria (2020–2021)  
-  - Developed the **Python programming** and **Introduction to Machine Learning** syllabus for the national training program.  
-  - Assisted in live instruction, student evaluation, and workshop coordination.  
+- **Program Assistant**, Data Science Nigeria (2019–2020)  
+  - Developed the **Python programming** and **Introduction to Machine Learning** syllabi for the AI-everyday training program.  
+  - Taught Python and machine learning sessions, evaluated student performance, and assisted with bootcamp planning and organization.  
   - Supported mentoring activities for beginner participants transitioning into applied data science.  
 
+- **Substitute Lecturer**, Ladoke Akintola University of Technology, 2018, (2020–2021)  
+  - Courses: *Discrete Mathematics, Linear Algebra, Programming Fundamentals*.  
+  - Co-supervised 5 undergraduate research projects in Data Mining and Machine Learning.
 
 ## Teaching Philosophy
 
