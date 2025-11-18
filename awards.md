@@ -9,7 +9,7 @@ title: Awards and Fellowships
 - NSF Travel Award – IEEE BigData (2024)  
 - ACM Travel Award – PEARC Conference (2024–2025)  
 - WiML Registration Award – NeurIPS (2023)  
-- Diversity & Inclusion Fellowship – UNC Graduate School (2021–Present)  
+- Diversity & Inclusion Fellowship – UNC Graduate School (2021)  
 - Top 30% Selected Participant – Cornell–Maryland–Max Planck Pre-doctoral School (CMMRS 2020 Cohort)  
 - Top 16% Selected Participant – “Solving the Algorithm: Women in Machine Learning” Conference (2020)  
 - Full Sponsorship – PyCon Africa, Ghana (2019)  
