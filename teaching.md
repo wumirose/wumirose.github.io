@@ -5,7 +5,7 @@ title: Teaching
 
 ## Teaching Experience
 
-- **Graduate Teaching Assistant**, UNC Chapel Hill (2021–Present)  
+- **Graduate Teaching Assistant**, UNC Chapel Hill (Fall 2021, Spring 2022, Fall 2025)  
   - Held weekly office hours on **Tuesdays** and led **two Friday recitation sessions** for *Introduction to Data Science (DATA 110)* — the first with 33 students and the second with 36 students.  
   - Graded student labs and homework assignments, providing detailed feedback to reinforce key data science concepts.  
   - Provided in-class debugging support and additional office hours for over 200 students in *Introduction to Scientific Programming (COMP116)*.  
