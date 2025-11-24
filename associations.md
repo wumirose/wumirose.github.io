@@ -28,5 +28,6 @@ title: Professional Associations and Services
   - NeurIPS Logistics Team (2023)
   - Women in Machine Learning (WiML) Poster Reviewer,  WIML Workshop at NeurIPS  (2023, [2024](https://sites.google.com/wimlworkshop.org/wiml-2024/program#h.1dzx6aq157xv), 2025)
   - WIML Poster Mentor (2020)
+  - Panelist, How to make the most of PEARC, PEARC25, Columbus, Ohio (2025)
 - **University Service:**
   - Graduate and Professional Student Government Representative, UNC Student Technology Council (Fall 2023 - Spring 2025)
