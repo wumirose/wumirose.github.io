@@ -44,7 +44,7 @@ I am seeking a **teaching-focused faculty position** at universities or liberal 
 - **Advisors:** [Stanley Ahalt](https://datascience.unc.edu/person/stan-ahalt/) & [Harlin Lee](https://harlinlee.github.io/)
 
 **Ladoke Akintola University of Technology, Nigeria**  
-- B.Tech. in Computer Science, First Class Honors (GPA: 4.52/5.00, 2017)
+- B.Tech. in Computer Science, First Class Honors (GPA: 4.52/5.00, 2018)
 
 ---
 
