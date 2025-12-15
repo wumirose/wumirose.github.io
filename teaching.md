@@ -17,7 +17,7 @@ title: Teaching
   - Recorded daily attendance and participation throughout the week-long course.  
 
 - **Program Assistant**, Data Science Nigeria (2019–2020)  
-  - Developed the **Python programming** and **Introduction to Machine Learning** syllabi for the AI-everyday training program.  
+  - Developed the Python programming and Introduction to Machine Learning syllabi for the AI-everyday training program.  
   - Taught Python and machine learning sessions, evaluated student performance, and assisted with bootcamp planning and organization.  
   - Supported mentoring activities for beginner participants transitioning into applied data science.  
 
