@@ -25,7 +25,7 @@ title: Home
 
 ## About Me
 
-I am seeking a **teaching-focused faculty position** at universities or liberal arts colleges beginning Fall 2026. My research focuses on explainable AI for biomedical knowledge graphs, and I have extensive experience teaching computer science to diverse learners across 300+ students in Nigerian and American educational systems.
+I am seeking a **teaching-focused faculty position** at universities or liberal arts colleges beginning Fall 2026. My research focuses on explainable biomedical knowledge graphs augmentation, and I have extensive experience teaching computer science to diverse learners across 300+ students in Nigerian and American educational systems.
 
 **Quick Links:**
 - [Teaching Experience & Philosophy](/teaching) — Courses taught, pedagogical approach, student mentorship
