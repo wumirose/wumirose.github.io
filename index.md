@@ -919,7 +919,7 @@
           <div class="news-content">
             <span class="news-badge badge-open">On the Market</span>
             <h3>Faculty Job Search</h3>
-            <p>Actively seeking teaching-focused faculty positions (Teaching Professor, Instructor) beginning Fall 2026. Open to universities, liberal arts colleges, and community colleges.</p>
+            <p>Actively seeking teaching-focused faculty positions (Teaching Professor, Instructor) beginning Fall 2026. Open to universities, liberal arts colleges, and community colleges. <a href="#contact" style="font-weight: 600;">Get in touch &rarr;</a></p>
           </div>
         </div>
 
@@ -998,12 +998,12 @@
 
       <div class="teach-grid">
         <div class="teach-courses reveal">
-          <div class="course-tag"><span class="code">DATA 110</span> Introduction to Data Science</div>
-          <div class="course-tag"><span class="code">COMP 116</span> Introduction to Scientific Programming</div>
+          <div class="course-tag"><span class="code">TA</span> Introduction to Data Science (DATA 110)</div>
+          <div class="course-tag"><span class="code">TA</span> Introduction to Scientific Programming (COMP 116)</div>
           <div class="course-tag"><span class="code">DMP</span> Data Matters Summer Program (Python &amp; Deep Learning)</div>
           <div class="course-tag"><span class="code">CS</span> Programming Fundamentals</div>
           <div class="course-tag"><span class="code">MATH</span> Discrete Mathematics &amp; Linear Algebra</div>
-          <div class="course-tag"><span class="code">AI</span> Python and Machine Learning Training Program</div>
+          <div class="course-tag"><span class="code">ML</span> Python and Machine Learning Training Program</div>
         </div>
 
         <div class="teach-philosophy reveal reveal-delay-1">
@@ -1062,6 +1062,8 @@
           </div>
         </div>
       </div>
+
+      <p style="margin-top: 2rem;" class="reveal"><a href="https://scholar.google.com/citations?user=4tvUEjkAAAAJ&hl=en" target="_blank" style="font-weight: 600;">See more on Google Scholar &rarr;</a></p>
 
       </div>
     </div>
@@ -1129,7 +1131,7 @@
 
   <!-- ── FOOTER ── -->
   <footer>
-    <p>&copy; 2026 Olawumi Roseline Olasunkanmi. Built with purpose.</p>
+    <p>&copy; 2026 Olawumi Roseline Olasunkanmi. Dare to dream.</p>
   </footer>
 
   <script>
