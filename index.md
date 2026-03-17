@@ -1000,8 +1000,8 @@
           <div class="course-tag"><span class="code">TA</span> Introduction to Data Science (DATA 110)</div>
           <div class="course-tag"><span class="code">TA</span> Introduction to Scientific Programming (COMP 116)</div>
           <div class="course-tag"><span class="code">TA</span> Data Matters Summer Program (Python &amp; Deep Learning)</div>
-          <div class="course-tag"><span class="code">Subtitute Teacher</span> Programming Fundamentals</div>
-          <div class="course-tag"><span class="code">Subtitute Teacher</span> Discrete Mathematics &amp; Linear Algebra</div>
+          <div class="course-tag"><span class="code">Subtitute Lecturer</span> Programming Fundamentals</div>
+          <div class="course-tag"><span class="code">Subtitute Lecturer</span> Discrete Mathematics &amp; Linear Algebra</div>
           <div class="course-tag"><span class="code">Instructor</span> Python and Machine Learning Training Program</div>
         </div>
 
