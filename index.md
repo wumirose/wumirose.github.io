@@ -1197,25 +1197,13 @@
       <div class="experience-item reveal">
         <div class="exp-header">
           <strong>Research Assistant</strong> &mdash; Renaissance Computing Institute (RENCI), UNC Chapel Hill
-          <span class="exp-date">2022 &ndash; Present</span>
-        </div>
-        <div class="exp-body">
-          Developed <em>Explainable Enrichment-Driven Graph Reasoner (EDGAR)</em> for drug repurposing. Built <em>RELATE</em> for relation extraction using LLMs and ontology constraints. Collaborated on the NIH Biomedical Data Translator project: ingested data from structured and unstructured sources.
         </div>
       </div>
 
       <div class="experience-item reveal">
         <div class="exp-header">
           <strong>Research Assistant</strong> &mdash; Ladoke Akintola University of Technology, Nigeria
-          <span class="exp-date">2020 &ndash; 2021</span>
         </div>
-        <div class="exp-body">
-          Implemented data-driven clustering algorithms for student behavioral analysis and performance prediction.
-        </div>
-      </div>
-
-      <div class="exp-tech reveal">
-        <strong>Technologies:</strong> Python, Neo4j, NetworkX, PyTorch, TensorFlow
       </div>
 
       <!-- Publications -->
