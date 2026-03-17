@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -8,20 +9,20 @@
   <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Source+Sans+3:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400&display=swap" rel="stylesheet">
   <style>
     :root {
-      --ink: #1a1a2e;
-      --ink-light: #3d3d5c;
-      --ink-muted: #6b6b8d;
-      --bg: #faf9f7;
-      --bg-warm: #f5f0eb;
+      --ink: #0f1a2e;
+      --ink-light: #2d3f5e;
+      --ink-muted: #5a6e8a;
+      --bg: #f7f9fc;
+      --bg-warm: #edf1f8;
       --bg-card: #ffffff;
-      --accent: #c0785a;
-      --accent-light: #d4956e;
-      --accent-bg: #fdf5f0;
-      --rule: #e2ddd6;
-      --rule-light: #ece8e2;
-      --shadow-sm: 0 1px 3px rgba(26,26,46,0.04);
-      --shadow-md: 0 4px 20px rgba(26,26,46,0.06);
-      --shadow-lg: 0 8px 40px rgba(26,26,46,0.08);
+      --accent: #3366cc;
+      --accent-light: #5588dd;
+      --accent-bg: #eef3fb;
+      --rule: #d4dce8;
+      --rule-light: #e4eaf2;
+      --shadow-sm: 0 1px 3px rgba(15,26,46,0.05);
+      --shadow-md: 0 4px 20px rgba(15,26,46,0.07);
+      --shadow-lg: 0 8px 40px rgba(15,26,46,0.10);
       --radius: 12px;
       --serif: 'Instrument Serif', Georgia, serif;
       --sans: 'Source Sans 3', -apple-system, sans-serif;
@@ -29,7 +30,7 @@
 
     *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 
-    html { scroll-behavior: smooth; font-size: 16px; }
+    html { scroll-behavior: smooth; font-size: 16px; scroll-padding-top: 72px; }
 
     body {
       font-family: var(--sans);
@@ -57,7 +58,7 @@
       position: fixed;
       top: 0; left: 0; right: 0;
       z-index: 100;
-      background: rgba(250,249,247,0.85);
+      background: rgba(247,249,252,0.85);
       backdrop-filter: blur(20px);
       -webkit-backdrop-filter: blur(20px);
       border-bottom: 1px solid var(--rule-light);
@@ -577,9 +578,92 @@
       font-weight: 500;
     }
 
+    .nav-links a.active { color: var(--ink); }
+    .nav-links a.active::after { width: 100%; }
+
+    /* ── NEWS ── */
+    .news-feed {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+      margin-top: 2rem;
+    }
+
+    .news-item {
+      display: flex;
+      gap: 1.5rem;
+      padding: 1.5rem 0;
+      border-bottom: 1px solid var(--rule-light);
+      transition: all 0.3s ease;
+    }
+    .news-item:first-child { border-top: 1px solid var(--rule-light); }
+    .news-item:hover { padding-left: 0.5rem; }
+
+    .news-date {
+      flex-shrink: 0;
+      width: 64px;
+      text-align: center;
+      padding-top: 4px;
+    }
+    .news-month {
+      display: block;
+      font-family: var(--serif);
+      font-size: 1.15rem;
+      color: var(--ink);
+      line-height: 1.2;
+    }
+    .news-year {
+      display: block;
+      font-size: 0.8rem;
+      color: var(--ink-muted);
+      letter-spacing: 0.03em;
+    }
+
+    .news-content { flex: 1; }
+
+    .news-badge {
+      display: inline-block;
+      padding: 0.2rem 0.65rem;
+      border-radius: 100px;
+      font-size: 0.72rem;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      background: var(--accent-bg);
+      color: var(--accent);
+      margin-bottom: 0.5rem;
+    }
+    .news-badge.badge-pub {
+      background: #e8f0fe;
+      color: #2952a3;
+    }
+    .news-badge.badge-open {
+      background: #e6f4f1;
+      color: #1a7a6d;
+    }
+    .news-badge.badge-degree {
+      background: #e8eaf6;
+      color: #3949ab;
+    }
+
+    .news-content h3 {
+      font-family: var(--serif);
+      font-size: 1.15rem;
+      margin-bottom: 0.35rem;
+      color: var(--ink);
+    }
+    .news-content p {
+      font-size: 0.93rem;
+      color: var(--ink-light);
+      line-height: 1.7;
+    }
+    .news-content em {
+      color: var(--ink-muted);
+    }
+
     /* ── CTA ── */
     .cta-section {
-      background: var(--ink);
+      background: linear-gradient(135deg, #0f1a2e 0%, #1a3058 100%);
       color: #fff;
       text-align: center;
       padding: 5rem 2rem;
@@ -618,7 +702,7 @@
       background: var(--accent-light);
       color: #fff;
       transform: translateY(-2px);
-      box-shadow: 0 6px 24px rgba(192,120,90,0.35);
+      box-shadow: 0 6px 24px rgba(51,102,204,0.35);
     }
 
     /* ── FOOTER ── */
@@ -695,7 +779,7 @@
         flex-direction: column;
         position: absolute;
         top: 64px; left: 0; right: 0;
-        background: rgba(250,249,247,0.98);
+        background: rgba(247,249,252,0.98);
         backdrop-filter: blur(20px);
         padding: 1.5rem 2rem;
         gap: 1rem;
@@ -708,6 +792,9 @@
       .hero-photo { width: 240px; height: 300px; }
 
       section { padding: 3.5rem 1.25rem; }
+
+      .news-item { gap: 1rem; }
+      .news-date { width: 52px; }
     }
   </style>
 </head>
@@ -716,13 +803,15 @@
   <!-- ── NAV ── -->
   <nav id="nav">
     <div class="nav-inner">
-      <a href="/" class="nav-name">Olawumi Olasunkanmi</a>
+      <a href="#hero" class="nav-name">Olawumi Olasunkanmi</a>
       <div class="nav-links" id="navLinks">
-        <a href="https://wumirose.github.io/">Home</a>
-        <a href="https://wumirose.github.io/research">Research</a>
-        <a href="https://wumirose.github.io/teaching">Teaching</a>
-        <a href="https://wumirose.github.io/awards">Awards</a>
-        <a href="https://wumirose.github.io/associations">Professional</a>
+        <a href="#hero" class="active">Home</a>
+        <a href="#news">News</a>
+        <a href="#research">Research</a>
+        <a href="#teaching">Teaching</a>
+        <a href="#education">Education</a>
+        <a href="#skills">Skills</a>
+        <a href="#contact">Contact</a>
       </div>
       <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
         <span></span><span></span><span></span>
@@ -731,7 +820,7 @@
   </nav>
 
   <!-- ── HERO ── -->
-  <section class="hero">
+  <section class="hero" id="hero">
     <div class="hero-inner">
       <div class="hero-photo-wrap">
         <img class="hero-photo" src="https://wumirose.github.io/assets/images/DSC_9441.jpg" alt="Olawumi Roseline Olasunkanmi">
@@ -771,40 +860,111 @@
   <section>
     <div class="section-inner">
       <div class="quick-grid">
-        <a href="https://wumirose.github.io/teaching" class="quick-card reveal">
+        <a href="#teaching" class="quick-card reveal">
           <div class="quick-card-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
           </div>
           <h3>Teaching</h3>
           <p>Courses taught, pedagogical approach, student mentorship</p>
         </a>
-        <a href="https://wumirose.github.io/research" class="quick-card reveal reveal-delay-1">
+        <a href="#research" class="quick-card reveal reveal-delay-1">
           <div class="quick-card-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/></svg>
           </div>
           <h3>Research</h3>
           <p>Current projects, publications, ongoing collaborations</p>
         </a>
-        <a href="https://wumirose.github.io/awards" class="quick-card reveal reveal-delay-2">
+        <a href="#education" class="quick-card reveal reveal-delay-2">
           <div class="quick-card-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="6"/><path d="M15.477 12.89 17 22l-5-3-5 3 1.523-9.11"/></svg>
           </div>
-          <h3>Awards</h3>
-          <p>Fellowships, travel awards, honors</p>
+          <h3>Education</h3>
+          <p>Degrees, dissertation, academic journey</p>
         </a>
-        <a href="https://wumirose.github.io/associations" class="quick-card reveal reveal-delay-3">
+        <a href="#skills" class="quick-card reveal reveal-delay-3">
           <div class="quick-card-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
           </div>
-          <h3>Professional</h3>
-          <p>Memberships, reviewing, leadership roles</p>
+          <h3>Skills</h3>
+          <p>Programming, ML/AI, data science, web development</p>
         </a>
       </div>
     </div>
   </section>
 
+  <!-- ── NEWS ── -->
+  <section id="news">
+    <div class="section-inner">
+      <div class="section-label reveal">News</div>
+      <h2 class="section-title reveal">Latest Updates</h2>
+      <div class="news-feed">
+
+        <div class="news-item reveal">
+          <div class="news-date">
+            <span class="news-month">May</span>
+            <span class="news-year">2026</span>
+          </div>
+          <div class="news-content">
+            <span class="news-badge">Upcoming</span>
+            <h3>Ph.D. Dissertation Defense</h3>
+            <p>Defending my dissertation on <em>Knowledge Graph Augmentation with Data Integration and Explainable Edge Inference</em> at UNC Chapel Hill.</p>
+          </div>
+        </div>
+
+        <div class="news-item reveal reveal-delay-1">
+          <div class="news-date">
+            <span class="news-month">2026</span>
+            <span class="news-year">&nbsp;</span>
+          </div>
+          <div class="news-content">
+            <span class="news-badge badge-open">On the Market</span>
+            <h3>Faculty Job Search</h3>
+            <p>Actively seeking teaching-focused faculty positions (Teaching Professor, Instructor) beginning Fall 2026. Open to universities, liberal arts colleges, and community colleges.</p>
+          </div>
+        </div>
+
+        <div class="news-item reveal reveal-delay-2">
+          <div class="news-date">
+            <span class="news-month">2025</span>
+            <span class="news-year">&nbsp;</span>
+          </div>
+          <div class="news-content">
+            <span class="news-badge badge-pub">Publication</span>
+            <h3>RELATE Paper</h3>
+            <p>Published <em>RELATE: Relation Extraction in Biomedical Abstracts with LLMs and Ontology Constraints</em>, a biomedical NLP pipeline for triple extraction from PubMed abstracts.</p>
+          </div>
+        </div>
+
+        <div class="news-item reveal reveal-delay-3">
+          <div class="news-date">
+            <span class="news-month">Dec</span>
+            <span class="news-year">2024</span>
+          </div>
+          <div class="news-content">
+            <span class="news-badge badge-pub">Publication</span>
+            <h3>EDGAR at IEEE Big Data</h3>
+            <p>Presented the Explainable Enrichment-Driven Graph Reasoner (EDGAR) at the IEEE Big Data Conference.</p>
+          </div>
+        </div>
+
+        <div class="news-item reveal reveal-delay-4">
+          <div class="news-date">
+            <span class="news-month">2023</span>
+            <span class="news-year">&nbsp;</span>
+          </div>
+          <div class="news-content">
+            <span class="news-badge badge-degree">Degree</span>
+            <h3>M.Sc. in Computer Science</h3>
+            <p>Completed my Master's degree at UNC Chapel Hill while continuing into the Ph.D. program.</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
   <!-- ── EDUCATION ── -->
-  <section class="bg-warm">
+  <section class="bg-warm" id="education">
     <div class="section-inner">
       <div class="section-label reveal">Education</div>
       <h2 class="section-title reveal">Academic Background</h2>
@@ -830,7 +990,7 @@
   </section>
 
   <!-- ── TEACHING ── -->
-  <section>
+  <section id="teaching">
     <div class="section-inner">
       <div class="section-label reveal">Teaching</div>
       <h2 class="section-title reveal">Teaching at a Glance</h2>
@@ -872,7 +1032,7 @@
   </section>
 
   <!-- ── RESEARCH ── -->
-  <section class="bg-warm">
+  <section class="bg-warm" id="research">
     <div class="section-inner">
       <div class="section-label reveal">Research</div>
       <h2 class="section-title reveal">Research Highlights</h2>
@@ -903,12 +1063,12 @@
         </div>
       </div>
 
-      <p style="margin-top: 2rem;" class="reveal"><a href="https://wumirose.github.io/research" style="font-weight: 600;">View full research &amp; publications &rarr;</a></p>
+      </div>
     </div>
   </section>
 
   <!-- ── SKILLS ── -->
-  <section>
+  <section id="skills">
     <div class="section-inner">
       <div class="section-label reveal">Skills</div>
       <h2 class="section-title reveal">Technical Skills</h2>
@@ -955,7 +1115,7 @@
   </section>
 
   <!-- ── CTA ── -->
-  <section class="cta-section">
+  <section class="cta-section" id="contact">
     <div class="section-inner" style="max-width: 640px;">
       <div class="section-label reveal">Get in Touch</div>
       <h2 class="section-title reveal">Let's Connect</h2>
@@ -981,10 +1141,42 @@
 
     // Mobile menu
     const toggle = document.getElementById('navToggle');
-    const links = document.getElementById('navLinks');
+    const navLinks = document.getElementById('navLinks');
     toggle.addEventListener('click', () => {
-      links.classList.toggle('open');
+      navLinks.classList.toggle('open');
     });
+
+    // Close mobile menu on link click
+    navLinks.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => {
+        navLinks.classList.remove('open');
+      });
+    });
+
+    // Scroll spy — highlight active nav link
+    const sections = document.querySelectorAll('section[id]');
+    const navAnchors = document.querySelectorAll('.nav-links a');
+
+    function updateActiveNav() {
+      const scrollY = window.scrollY + 120;
+      let currentId = '';
+
+      sections.forEach(section => {
+        if (scrollY >= section.offsetTop) {
+          currentId = section.getAttribute('id');
+        }
+      });
+
+      // If at the very top, highlight Home
+      if (window.scrollY < 200) currentId = 'hero';
+
+      navAnchors.forEach(a => {
+        a.classList.toggle('active', a.getAttribute('href') === '#' + currentId);
+      });
+    }
+
+    window.addEventListener('scroll', updateActiveNav, { passive: true });
+    updateActiveNav();
 
     // Scroll reveal
     const observer = new IntersectionObserver((entries) => {
