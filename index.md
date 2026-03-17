@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -1000,10 +999,10 @@
         <div class="teach-courses reveal">
           <div class="course-tag"><span class="code">TA</span> Introduction to Data Science (DATA 110)</div>
           <div class="course-tag"><span class="code">TA</span> Introduction to Scientific Programming (COMP 116)</div>
-          <div class="course-tag"><span class="code">DMP</span> Data Matters Summer Program (Python &amp; Deep Learning)</div>
-          <div class="course-tag"><span class="code">CS</span> Programming Fundamentals</div>
-          <div class="course-tag"><span class="code">MATH</span> Discrete Mathematics &amp; Linear Algebra</div>
-          <div class="course-tag"><span class="code">ML</span> Python and Machine Learning Training Program</div>
+          <div class="course-tag"><span class="code">TA</span> Data Matters Summer Program (Python &amp; Deep Learning)</div>
+          <div class="course-tag"><span class="code">Subtitute Teacher</span> Programming Fundamentals</div>
+          <div class="course-tag"><span class="code">Subtitute Teacher</span> Discrete Mathematics &amp; Linear Algebra</div>
+          <div class="course-tag"><span class="code">Instructor</span> Python and Machine Learning Training Program</div>
         </div>
 
         <div class="teach-philosophy reveal reveal-delay-1">
@@ -1064,8 +1063,6 @@
       </div>
 
       <p style="margin-top: 2rem;" class="reveal"><a href="https://scholar.google.com/citations?user=4tvUEjkAAAAJ&hl=en" target="_blank" style="font-weight: 600;">See more on Google Scholar &rarr;</a></p>
-
-      </div>
     </div>
   </section>
 
