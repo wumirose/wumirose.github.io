@@ -1192,17 +1192,17 @@
       </div>
 
       <!-- Research Experience -->
-      <h3 class="subsection-title reveal">Research Experience</h3>
+      <h3 class="subsection-title reveal">Research Assistant</h3>
 
       <div class="experience-item reveal">
         <div class="exp-header">
-          <strong>Research Assistant</strong> &mdash; Renaissance Computing Institute (RENCI), UNC Chapel Hill
+           &mdash; Renaissance Computing Institute (RENCI), UNC Chapel Hill
         </div>
       </div>
 
       <div class="experience-item reveal">
         <div class="exp-header">
-          <strong>Research Assistant</strong> &mdash; Ladoke Akintola University of Technology, Nigeria
+         &mdash; Ladoke Akintola University of Technology, Nigeria
         </div>
       </div>
 
