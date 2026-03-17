@@ -1117,8 +1117,7 @@
   <section class="cta-section" id="contact">
     <div class="section-inner" style="max-width: 640px;">
       <div class="section-label reveal">Get in Touch</div>
-      <h2 class="section-title reveal">Let's Connect</h2>
-      <p class="cta-desc reveal">Application materials including teaching statement, research statement, and complete CV are available upon request.</p>
+      <p class="cta-desc reveal">Application materials, including teaching statement, research statement, and CV, are available upon request.</p>
       <a href="mailto:roolasunkanmi@unc.edu" class="cta-btn reveal">
         <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
         roolasunkanmi@unc.edu
