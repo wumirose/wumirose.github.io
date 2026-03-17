@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -577,6 +578,150 @@
       font-weight: 500;
     }
 
+    /* ── SUBSECTION TITLES ── */
+    .subsection-title {
+      font-family: var(--serif);
+      font-size: 1.2rem;
+      color: var(--ink);
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid var(--rule-light);
+    }
+
+    /* ── RESEARCH EXPERIENCE ── */
+    .experience-item {
+      margin-bottom: 1.5rem;
+    }
+    .exp-header {
+      font-size: 0.95rem;
+      color: var(--ink);
+      line-height: 1.6;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 0.5rem;
+    }
+    .exp-date {
+      font-size: 0.85rem;
+      color: var(--ink-muted);
+      font-weight: 500;
+      white-space: nowrap;
+    }
+    .exp-body {
+      font-size: 0.93rem;
+      color: var(--ink-light);
+      line-height: 1.7;
+      margin-top: 0.4rem;
+    }
+    .exp-tech {
+      font-size: 0.9rem;
+      color: var(--ink-muted);
+      margin-top: 0.5rem;
+    }
+
+    /* ── POSTER LIST ── */
+    .poster-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+    .poster-item {
+      font-size: 0.93rem;
+      color: var(--ink-light);
+      line-height: 1.7;
+      padding-left: 1rem;
+      border-left: 2px solid var(--rule-light);
+      transition: border-color 0.2s ease;
+    }
+    .poster-item:hover {
+      border-left-color: var(--accent);
+    }
+
+    /* ── MENTORSHIP ── */
+    .mentorship p {
+      font-size: 0.95rem;
+      color: var(--ink-light);
+      line-height: 1.7;
+    }
+
+    /* ── AWARDS ── */
+    .awards-grid {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+      margin-top: 2rem;
+    }
+    .award-item {
+      display: flex;
+      align-items: baseline;
+      gap: 1.25rem;
+      padding: 1rem 0;
+      border-bottom: 1px solid var(--rule-light);
+      transition: padding-left 0.3s ease;
+    }
+    .award-item:first-child { border-top: 1px solid var(--rule-light); }
+    .award-item:hover { padding-left: 0.5rem; }
+
+    .award-year {
+      font-family: var(--serif);
+      font-size: 1.05rem;
+      color: var(--accent);
+      flex-shrink: 0;
+      min-width: 60px;
+    }
+    .award-info h3 {
+      font-size: 0.95rem;
+      font-weight: 500;
+      color: var(--ink-light);
+      line-height: 1.5;
+    }
+
+    /* ── PROFESSIONAL SERVICE ── */
+    .pro-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 2.5rem;
+    }
+
+    .membership-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+    .membership-tag {
+      padding: 0.45rem 1rem;
+      background: var(--bg-card);
+      border: 1px solid var(--rule-light);
+      border-radius: 100px;
+      font-size: 0.88rem;
+      color: var(--ink-light);
+      font-weight: 500;
+      transition: all 0.2s ease;
+    }
+    .membership-tag:hover {
+      border-color: var(--accent);
+      color: var(--ink);
+    }
+
+    .service-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.6rem;
+    }
+    .service-item {
+      font-size: 0.93rem;
+      color: var(--ink-light);
+      line-height: 1.6;
+      padding-left: 0.75rem;
+      border-left: 2px solid var(--rule-light);
+      transition: border-color 0.2s ease;
+    }
+    .service-item:hover {
+      border-left-color: var(--accent);
+    }
+
     .nav-links a.active { color: var(--ink); }
     .nav-links a.active::after { width: 100%; }
 
@@ -769,6 +914,7 @@
       .quick-grid { grid-template-columns: repeat(2, 1fr); }
       .teach-grid { grid-template-columns: 1fr; }
       .skills-grid { grid-template-columns: repeat(2, 1fr); }
+      .pro-grid { grid-template-columns: 1fr; }
     }
 
     @media (max-width: 640px) {
@@ -808,8 +954,8 @@
         <a href="#news">News</a>
         <a href="#research">Research</a>
         <a href="#teaching">Teaching</a>
-        <a href="#education">Education</a>
-        <a href="#skills">Skills</a>
+        <a href="#awards">Awards</a>
+        <a href="#professional">Service</a>
         <a href="#contact">Contact</a>
       </div>
       <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
@@ -871,21 +1017,21 @@
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/></svg>
           </div>
           <h3>Research</h3>
-          <p>Current projects, publications, ongoing collaborations</p>
+          <p>Publications, posters, mentorship, collaborations</p>
         </a>
-        <a href="#education" class="quick-card reveal reveal-delay-2">
+        <a href="#awards" class="quick-card reveal reveal-delay-2">
           <div class="quick-card-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="6"/><path d="M15.477 12.89 17 22l-5-3-5 3 1.523-9.11"/></svg>
           </div>
-          <h3>Education</h3>
-          <p>Degrees, dissertation, academic journey</p>
+          <h3>Awards</h3>
+          <p>Fellowships, travel awards, honors</p>
         </a>
-        <a href="#skills" class="quick-card reveal reveal-delay-3">
+        <a href="#professional" class="quick-card reveal reveal-delay-3">
           <div class="quick-card-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
           </div>
-          <h3>Skills</h3>
-          <p>Programming, ML/AI, data science, web development</p>
+          <h3>Professional Service</h3>
+          <p>Memberships, reviewing, leadership roles</p>
         </a>
       </div>
     </div>
@@ -1000,8 +1146,8 @@
           <div class="course-tag"><span class="code">TA</span> Introduction to Data Science (DATA 110)</div>
           <div class="course-tag"><span class="code">TA</span> Introduction to Scientific Programming (COMP 116)</div>
           <div class="course-tag"><span class="code">TA</span> Data Matters Summer Program (Python &amp; Deep Learning)</div>
-          <div class="course-tag"><span class="code">Subtitute Lecturer</span> Programming Fundamentals</div>
-          <div class="course-tag"><span class="code">Subtitute Lecturer</span> Discrete Mathematics &amp; Linear Algebra</div>
+          <div class="course-tag"><span class="code">Substitute Lecturer</span> Programming Fundamentals</div>
+          <div class="course-tag"><span class="code">Substitute Lecturer</span> Discrete Mathematics &amp; Linear Algebra</div>
           <div class="course-tag"><span class="code">Instructor</span> Python and Machine Learning Training Program</div>
         </div>
 
@@ -1034,7 +1180,7 @@
   <section class="bg-warm" id="research">
     <div class="section-inner">
       <div class="section-label reveal">Research</div>
-      <h2 class="section-title reveal">Research Highlights</h2>
+      <h2 class="section-title reveal">Research</h2>
       <p class="section-intro reveal">Building tools for explainable, knowledge-driven biomedical AI.</p>
 
       <div class="research-areas reveal">
@@ -1044,6 +1190,36 @@
         <span class="area-pill">ML for Healthcare</span>
         <span class="area-pill">NLP</span>
       </div>
+
+      <!-- Research Experience -->
+      <h3 class="subsection-title reveal">Research Experience</h3>
+
+      <div class="experience-item reveal">
+        <div class="exp-header">
+          <strong>Research Assistant</strong> &mdash; Renaissance Computing Institute (RENCI), UNC Chapel Hill
+          <span class="exp-date">2022 &ndash; Present</span>
+        </div>
+        <div class="exp-body">
+          Developed <em>Explainable Enrichment-Driven Graph Reasoner (EDGAR)</em> for drug repurposing. Built <em>RELATE</em> for relation extraction using LLMs and ontology constraints. Collaborated on the NIH Biomedical Data Translator project: ingested data from structured and unstructured sources.
+        </div>
+      </div>
+
+      <div class="experience-item reveal">
+        <div class="exp-header">
+          <strong>Research Assistant</strong> &mdash; Ladoke Akintola University of Technology, Nigeria
+          <span class="exp-date">2020 &ndash; 2021</span>
+        </div>
+        <div class="exp-body">
+          Implemented data-driven clustering algorithms for student behavioral analysis and performance prediction.
+        </div>
+      </div>
+
+      <div class="exp-tech reveal">
+        <strong>Technologies:</strong> Python, Neo4j, NetworkX, PyTorch, TensorFlow
+      </div>
+
+      <!-- Publications -->
+      <h3 class="subsection-title reveal">Publications</h3>
 
       <div class="pub-list">
         <div class="pub-item reveal">
@@ -1062,7 +1238,157 @@
         </div>
       </div>
 
-      <p style="margin-top: 2rem;" class="reveal"><a href="https://scholar.google.com/citations?user=4tvUEjkAAAAJ&hl=en" target="_blank" style="font-weight: 600;">See more on Google Scholar &rarr;</a></p>
+      <p style="margin-top: 1.5rem;" class="reveal"><a href="https://scholar.google.com/citations?user=4tvUEjkAAAAJ&hl=en" target="_blank" style="font-weight: 600;">See more on Google Scholar &rarr;</a></p>
+
+      <!-- Posters -->
+      <h3 class="subsection-title reveal">Poster Presentations</h3>
+
+      <div class="poster-list">
+        <div class="poster-item reveal">
+          <em>Enhancing KG Augmentation</em> &mdash; Doctoral Forum, SIAM International Conference on Data Mining (SDM25), Virginia
+        </div>
+        <div class="poster-item reveal">
+          <em>Enhancing Knowledge Graph Inference through Enrichment and Grouping</em> &mdash; Data Science Day, School of Data Science and Society, UNC Chapel Hill
+        </div>
+        <div class="poster-item reveal">
+          <em>Information Extraction for Graph Generation &amp; Inference (A Case Study of COVID-19 KG)</em> &mdash; CRA-WP Grad Cohort for Women, San Francisco
+        </div>
+        <div class="poster-item reveal">
+          <em>Deep Neural Network-Based Approach to Skin Cancer Classification</em> &mdash; 2nd Black in AI Workshop, NeurIPS 2018, Montreal
+        </div>
+      </div>
+
+      <!-- Mentorship -->
+      <h3 class="subsection-title reveal">Student Mentorship</h3>
+
+      <div class="mentorship reveal">
+        <p>Co-supervised five undergraduate research projects in Data Mining and Machine Learning.</p>
+        <p style="margin-top: 0.5rem;"><strong>Undergraduate Project Outcome:</strong> Abdulquadri Adegbiji &mdash; <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4tvUEjkAAAAJ&citation_for_view=4tvUEjkAAAAJ:Y0pCki6q_DkC" target="_blank">Classification of Chronic Kidney Diseases</a></p>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ── AWARDS ── -->
+  <section id="awards">
+    <div class="section-inner">
+      <div class="section-label reveal">Recognition</div>
+      <h2 class="section-title reveal">Awards &amp; Fellowships</h2>
+
+      <div class="awards-grid">
+        <div class="award-item reveal">
+          <span class="award-year">2024</span>
+          <div class="award-info">
+            <h3>NSF Travel Award &mdash; MLSystem</h3>
+          </div>
+        </div>
+        <div class="award-item reveal">
+          <span class="award-year">2024</span>
+          <div class="award-info">
+            <h3>NSF Travel Award &mdash; IEEE BigData</h3>
+          </div>
+        </div>
+        <div class="award-item reveal">
+          <span class="award-year">2024&ndash;25</span>
+          <div class="award-info">
+            <h3>ACM Travel Award &mdash; PEARC Conference</h3>
+          </div>
+        </div>
+        <div class="award-item reveal">
+          <span class="award-year">2023</span>
+          <div class="award-info">
+            <h3>WiML Registration Award &mdash; NeurIPS</h3>
+          </div>
+        </div>
+        <div class="award-item reveal">
+          <span class="award-year">2021</span>
+          <div class="award-info">
+            <h3>Diversity &amp; Inclusion Fellowship &mdash; UNC Graduate School</h3>
+          </div>
+        </div>
+        <div class="award-item reveal">
+          <span class="award-year">2020</span>
+          <div class="award-info">
+            <h3>Top 30% Selected Participant &mdash; Cornell&ndash;Maryland&ndash;Max Planck Pre-doctoral School (CMMRS)</h3>
+          </div>
+        </div>
+        <div class="award-item reveal">
+          <span class="award-year">2020</span>
+          <div class="award-info">
+            <h3>Top 16% Selected &mdash; "Solving the Algorithm: Women in Machine Learning" Conference</h3>
+          </div>
+        </div>
+        <div class="award-item reveal">
+          <span class="award-year">2019</span>
+          <div class="award-info">
+            <h3>Full Sponsorship &mdash; PyCon Africa, Ghana</h3>
+          </div>
+        </div>
+        <div class="award-item reveal">
+          <span class="award-year">2018</span>
+          <div class="award-info">
+            <h3>Full Travel Support &mdash; Black in AI Workshop, NeurIPS</h3>
+          </div>
+        </div>
+        <div class="award-item reveal">
+          <span class="award-year">2018</span>
+          <div class="award-info">
+            <h3>Nigerian Women TechSters Fellowship &mdash; Web &amp; Mobile Application Development</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── PROFESSIONAL ── -->
+  <section class="bg-warm" id="professional">
+    <div class="section-inner">
+      <div class="section-label reveal">Service</div>
+      <h2 class="section-title reveal">Professional Service</h2>
+
+      <div class="pro-grid">
+        <div class="pro-column reveal">
+          <h3 class="subsection-title">Memberships</h3>
+          <div class="membership-list">
+            <span class="membership-tag">ACM</span>
+            <span class="membership-tag">Women in Machine Learning (WiML)</span>
+            <span class="membership-tag">Black in AI (BAI)</span>
+            <span class="membership-tag">IEEE</span>
+            <span class="membership-tag">IAENG</span>
+          </div>
+        </div>
+
+        <div class="pro-column reveal reveal-delay-1">
+          <h3 class="subsection-title">Session Chair</h3>
+          <div class="service-item">
+            Practice and Experience in Advanced Research Computing (PEARC), Application &amp; Software Track 6, PEARC25, Columbus, Ohio (2025)
+          </div>
+        </div>
+      </div>
+
+      <div class="pro-grid" style="margin-top: 2rem;">
+        <div class="pro-column reveal">
+          <h3 class="subsection-title">Peer Reviewer</h3>
+          <div class="service-list">
+            <div class="service-item">IEEE ICECET, Paris (2025)</div>
+            <div class="service-item">Bioinformatics Open Source Conference (<a href="https://www.open-bio.org/events/bosc-2025/" target="_blank">BOSC</a>), Liverpool, UK (2025)</div>
+            <div class="service-item">NeurIPS Position Papers, San Diego (2025)</div>
+            <div class="service-item">IEEE <a href="https://camsap25.ig.umons.ac.be/tpc.php" target="_blank">CAMSAP25</a>, Dominican Republic (2025)</div>
+            <div class="service-item">Technical Program Reviewer <a href="https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3626203" target="_blank">PEARC24</a>, Providence, Rhode Island (2024)</div>
+          </div>
+        </div>
+
+        <div class="pro-column reveal reveal-delay-1">
+          <h3 class="subsection-title">Volunteering &amp; University Service</h3>
+          <div class="service-list">
+            <div class="service-item">NeurIPS Logistics Team (2023)</div>
+            <div class="service-item">WiML Poster Reviewer, NeurIPS (2023, <a href="https://sites.google.com/wimlworkshop.org/wiml-2024/program#h.1dzx6aq157xv" target="_blank">2024</a>, 2025)</div>
+            <div class="service-item">WiML Poster Mentor (2020)</div>
+            <div class="service-item">Panelist, "How to make the most of PEARC," PEARC25, Columbus, Ohio (2025)</div>
+            <div class="service-item">Graduate &amp; Professional Student Government Representative, UNC Student Technology Council (Fall 2023 &ndash; Spring 2025)</div>
+          </div>
+        </div>
+      </div>
     </div>
   </section>
 
@@ -1117,7 +1443,7 @@
   <section class="cta-section" id="contact">
     <div class="section-inner" style="max-width: 640px;">
       <div class="section-label reveal">Get in Touch</div>
-      <p class="cta-desc reveal">Application materials, including teaching statement, research statement, and CV, are available upon request.</p>
+      <p class="cta-desc reveal">Application materials including teaching statement, research statement, and complete CV are available upon request.</p>
       <a href="mailto:roolasunkanmi@unc.edu" class="cta-btn reveal">
         <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
         roolasunkanmi@unc.edu
