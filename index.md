@@ -979,7 +979,8 @@
   <section class="hero" id="hero">
     <div class="hero-inner">
       <div class="hero-photo-wrap">
-        <img class="hero-photo" src="https://wumirose.github.io/assets/images/DSC_9441.jpg" alt="Olawumi Roseline Olasunkanmi">
+        <img class="hero-photo" src="assets/images/DSC_9441.jpg" alt="Olawumi Roseline Olasunkanmi">
+        <!-- <img class="hero-photo" src="https://wumirose.github.io/assets/images/DSC_9441.jpg" alt="Olawumi Roseline Olasunkanmi"> -->
       </div>
       <div class="hero-text">
         <div class="hero-label">Computer Science</div>
