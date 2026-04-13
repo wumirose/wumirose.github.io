@@ -990,8 +990,7 @@
           <a href="mailto:roolasunkanmi@unc.edu">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
             Email
-          </a>
-          <a href="https://drive.google.com/file/d/1qDdwS1B2fHnVW_0KCw4x7jIbL6OpiPLE/view" target="_blank">
+          <a href="https://drive.google.com/file/d/1NWpPnDJsGkK_sIEpNAJkO3fspnvSUl9j/view" target="_blank">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/></svg>
             CV
           </a>
