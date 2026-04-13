@@ -193,8 +193,16 @@
       letter-spacing: -0.02em;
       color: var(--ink);
       margin-bottom: 0.5rem;
+    
+      white-space: nowrap;
     }
-
+    
+    @media (max-width: 420px) {
+      .hero-name {
+        white-space: normal;
+        font-size: 2rem;
+      }
+    }
     .hero-title {
       font-size: 1.15rem;
       color: var(--ink-muted);
@@ -975,8 +983,8 @@
       </div>
       <div class="hero-text">
         <div class="hero-label">Computer Science</div>
-        <h1 class="hero-name">Olawumi Roseline<br>Olasunkanmi</h1>
-        <p class="hero-title"> Ph.D. Candidate · University of North Carolina at Chapel Hill<br> Dissertation Defended: April 2026 · Degree Conferral: May 2026</p>
+        <h1 class="hero-name">Olawumi Roseline Olasunkanmi</h1>
+        <p class="hero-title"> Ph.D. Candidate, University of North Carolina at Chapel Hill<br> Dissertation Defended: April 2026<br> Degree Conferral: May 2026</p>
         <p class="hero-desc">Seeking a teaching-focused faculty position beginning Fall 2026. My research centers on explainable biomedical knowledge graph augmentation, and I bring experience teaching 300+ students across Nigerian and American educational systems.</p>
         <div class="hero-links">
           <a href="mailto:roolasunkanmi@unc.edu">
