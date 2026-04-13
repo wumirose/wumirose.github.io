@@ -776,6 +776,10 @@
       color: var(--accent);
       margin-bottom: 0.5rem;
     }
+    .news-badge.badge-completed {
+      background: #e6f4f1;
+      color: #1a7a6d;
+    }
     .news-badge.badge-pub {
       background: #e8f0fe;
       color: #2952a3;
@@ -972,7 +976,7 @@
       <div class="hero-text">
         <div class="hero-label">Computer Science</div>
         <h1 class="hero-name">Olawumi Roseline<br>Olasunkanmi</h1>
-        <p class="hero-title">Doctoral Candidate &middot; University of North Carolina at Chapel Hill<br>Expected Graduation: May 2026</p>
+        <p class="hero-title"> Ph.D. Candidate · University of North Carolina at Chapel Hill<br> Dissertation Defended: April 2026 · Degree Conferral: May 2026</p>
         <p class="hero-desc">Seeking a teaching-focused faculty position beginning Fall 2026. My research centers on explainable biomedical knowledge graph augmentation, and I bring experience teaching 300+ students across Nigerian and American educational systems.</p>
         <div class="hero-links">
           <a href="mailto:roolasunkanmi@unc.edu">
@@ -1045,13 +1049,13 @@
 
         <div class="news-item reveal">
           <div class="news-date">
-            <span class="news-month">May</span>
+            <span class="news-month">Apr</span>
             <span class="news-year">2026</span>
           </div>
           <div class="news-content">
-            <span class="news-badge">Upcoming</span>
+            <span class="news-badge badge-completed">Completed</span>
             <h3>Ph.D. Dissertation Defense</h3>
-            <p>Defending my dissertation on <em>Knowledge Graph Augmentation with Data Integration and Explainable Edge Inference</em> at UNC Chapel Hill.</p>
+            <p>Successfully defended my dissertation on <em>Knowledge Graph Augmentation with Data Integration and Explainable Edge Inference</em> at UNC Chapel Hill on April 19, 2026.</p>
           </div>
         </div>
 
