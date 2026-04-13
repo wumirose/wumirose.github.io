@@ -1055,7 +1055,7 @@
           <div class="news-content">
             <span class="news-badge badge-completed">Completed</span>
             <h3>Ph.D. Dissertation Defense</h3>
-            <p>Successfully defended my dissertation on <em>Knowledge Graph Augmentation with Data Integration and Explainable Edge Inference</em> at UNC Chapel Hill on April 19, 2026.</p>
+            <p>Successfully defended my dissertation on <em>Knowledge Graph Augmentation with Data Integration and Explainable Edge Inference</em> at UNC Chapel Hill on April 9, 2026.</p>
           </div>
         </div>
 
